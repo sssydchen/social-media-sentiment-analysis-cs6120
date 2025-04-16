@@ -108,6 +108,23 @@ with torch.no_grad():
         targets.extend(batch["labels"].cpu().numpy())
 
 from sklearn.metrics import classification_report
+import csv
+
+print("BERT Model Evaluation:")
+
+# Save predictions to CSV
+output_df = pd.DataFrame(
+    {
+        "text": X_test.values,
+        "true_label": label_encoder.inverse_transform(y_test),
+        "predicted_label": label_encoder.inverse_transform(preds),
+    }
+)
+output_df.to_csv("bert_predictions.csv", index=False)
+print("Saved predictions to 'bert_predictions.csv'")
+print(
+    classification_report(targets, preds, target_names=label_encoder.classes_)
+)
 
 print("\nBERT Model Evaluation:")
 print(
