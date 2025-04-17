@@ -40,13 +40,11 @@ df = df[
 
 # Data Preprocessing function
 def preprocess_text(text):
-    text = text.lower()  # Convert to lowercase
-    text = re.sub(
-        r"http\S+|www\S+|https\S+", "", text, flags=re.MULTILINE
-    )  # Remove URLs
-    text = re.sub(r"\@\w+|\#", "", text)  # Remove mentions and hashtags
-    text = re.sub(r"[^a-zA-Z]", " ", text)  # Remove all non-letter characters
-    text = text.strip()  # Remove leading and trailing whitespaces
+    text = text.lower()
+    text = re.sub(r"http\\S+|www\\S+|https\\S+", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\\@\\w+|\\#", "", text)
+    text = re.sub(r"[^a-zA-Z]", " ", text)
+    text = text.strip()
     tokens = word_tokenize(text)
     stop_words = set(stopwords.words("english"))
     filtered_tokens = [word for word in tokens if word not in stop_words]
@@ -64,34 +62,47 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 ### 1. NLTK-based Model (Naive Bayes) ###
-
-# Create a bag-of-words model
 vectorizer_nltk = CountVectorizer()
 X_train_nltk = vectorizer_nltk.fit_transform(X_train)
 X_test_nltk = vectorizer_nltk.transform(X_test)
 
-# Train the model
 model_nltk = MultinomialNB()
 model_nltk.fit(X_train_nltk, y_train)
 
-# Predict and evaluate
 y_pred_nltk = model_nltk.predict(X_test_nltk)
 print("\nNLTK Model Evaluation:")
 print(classification_report(y_test, y_pred_nltk))
 
+# Save NLTK model predictions
+nltk_output_df = pd.DataFrame(
+    {
+        "text": X_test.values,
+        "true_label": y_test.values,
+        "predicted_label": y_pred_nltk,
+    }
+)
+nltk_output_df.to_csv("nltk_predictions.csv", index=False)
+print("Saved NLTK predictions to 'nltk_predictions.csv'")
 
 ### 2. Scikit-Learn Model (TF-IDF + Naive Bayes) ###
-
-# Create a TF-IDF model
 vectorizer_sklearn = TfidfVectorizer()
 X_train_sklearn = vectorizer_sklearn.fit_transform(X_train)
 X_test_sklearn = vectorizer_sklearn.transform(X_test)
 
-# Train the model
 model_sklearn = MultinomialNB()
 model_sklearn.fit(X_train_sklearn, y_train)
 
-# Predict and evaluate
 y_pred_sklearn = model_sklearn.predict(X_test_sklearn)
 print("\nScikit-Learn Model Evaluation:")
 print(classification_report(y_test, y_pred_sklearn))
+
+# Save TF-IDF model predictions
+sklearn_output_df = pd.DataFrame(
+    {
+        "text": X_test.values,
+        "true_label": y_test.values,
+        "predicted_label": y_pred_sklearn,
+    }
+)
+sklearn_output_df.to_csv("sklearn_predictions.csv", index=False)
+print("Saved Scikit-Learn predictions to 'sklearn_predictions.csv'")
