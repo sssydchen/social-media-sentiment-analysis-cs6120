@@ -5,8 +5,8 @@ import numpy as np
 from sklearn.metrics import confusion_matrix
 
 # read the predictions from CSV files
-nltk_df = pd.read_csv("nltk_predictions_2000.csv")
-sklearn_df = pd.read_csv("sklearn_predictions_2000.csv")
+nltk_df = pd.read_csv("nltk_predictions_3000.csv")
+sklearn_df = pd.read_csv("sklearn_predictions_3000.csv")
 
 # calculate accuracy for both models
 nltk_accuracy = (nltk_df["true_label"] == nltk_df["predicted_label"]).mean()
@@ -61,7 +61,7 @@ plot_confusion_matrix(
     "NLTK (CountVectorizer)",
     nltk_accuracy,
     cmap_style="Blues",
-    save_path="nltk_confusion_matrix.png",
+    save_path="nltk.png",
 )
 
 # plot and save Scikit-Learn model confusion matrix
@@ -71,5 +71,5 @@ plot_confusion_matrix(
     "Scikit-Learn (TF-IDF)",
     sklearn_accuracy,
     cmap_style="Greens",
-    save_path="tfidf_confusion_matrix.png",
+    save_path="sklearn.png",
 )

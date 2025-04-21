@@ -14,7 +14,7 @@ nltk.download("stopwords")
 
 # Load the dataset
 csv_file = "Tweets.csv"
-df = pd.read_csv(csv_file).head(2000)
+df = pd.read_csv(csv_file).head(3000)
 
 # Select relevant columns
 df = df[
