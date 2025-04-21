@@ -5,8 +5,8 @@ import numpy as np
 from sklearn.metrics import confusion_matrix
 
 # read the predictions from CSV files
-nltk_df = pd.read_csv("nltk_predictions_3000.csv")
-sklearn_df = pd.read_csv("sklearn_predictions_3000.csv")
+nltk_df = pd.read_csv("nltk_predictions_4000.csv")
+sklearn_df = pd.read_csv("sklearn_predictions_4000.csv")
 
 # calculate accuracy for both models
 nltk_accuracy = (nltk_df["true_label"] == nltk_df["predicted_label"]).mean()
