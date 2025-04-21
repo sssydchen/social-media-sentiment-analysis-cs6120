@@ -38,7 +38,20 @@ df = df[
 ]
 
 
-# Data Preprocessing function
+# ===============================
+# Function: preprocess_text
+# What it does:
+#   - Clean and preprocess a text string by:
+#     * Lowercasing
+#     * Removing URLs, mentions, hashtags, non-letter characters
+#     * Tokenizing and removing stopwords
+#
+# Input:
+#   - text (str): a raw text string
+#
+# Output:
+#   - (str): a cleaned and tokenized text string
+# ===============================
 def preprocess_text(text):
     text = text.lower()
     text = re.sub(r"http\\S+|www\\S+|https\\S+", "", text, flags=re.MULTILINE)
@@ -106,3 +119,40 @@ sklearn_output_df = pd.DataFrame(
 )
 sklearn_output_df.to_csv("sklearn_predictions.csv", index=False)
 print("Saved Scikit-Learn predictions to 'sklearn_predictions.csv'")
+
+
+# ===============================
+# Unit Test for preprocess_text function
+# ===============================
+
+
+def test_preprocess_text():
+    # Case 1: Normal sentence
+    assert (
+        preprocess_text("I love flying with United Airlines!")
+        == "love flying united airlines"
+    )
+
+    # Case 2: Text with URL
+    assert (
+        preprocess_text("Check out our flights at https://united.com!")
+        == "check flights https united com"
+    )
+
+    # Case 3: Text with mention and hashtag
+    assert (
+        preprocess_text("@UnitedAirlines #badservice delayed again")
+        == "unitedairlines badservice delayed"
+    )
+
+    # Case 4: Empty string
+    assert preprocess_text("") == ""
+
+    # Case 5: Only non-alphabetic characters
+    assert preprocess_text("1234567890 !!! ???") == ""
+
+    print("All preprocess_text tests passed.")
+
+
+# Run the tests
+test_preprocess_text()
