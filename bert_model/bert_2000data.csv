@@ -1,4 +1,4 @@
-tweet_id,pred,true
+tweet_id,bert_pred,airline_sentiment
 569891469210755074,neutral,neutral
 569639288649883648,neutral,neutral
 570057521353764864,negative,negative
