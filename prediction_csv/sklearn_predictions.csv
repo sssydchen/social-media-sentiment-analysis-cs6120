@@ -1,4 +1,4 @@
-text,true_label,predicted_label
+text,airline_sentiment,predicted_sentiment
 southwestair early frontrunner best airline oscars,positive,negative
 usairways flt ewr cancelled flightled yet flts nyc usairways still flying,negative,negative
 jetblue going bdl dca flights yesterday today every single one getting delayed,negative,negative

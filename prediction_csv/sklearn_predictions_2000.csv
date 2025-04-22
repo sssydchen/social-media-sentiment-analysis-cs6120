@@ -1,4 +1,4 @@
-text,true_label,predicted_label
+text,airline_sentiment,predicted_sentiment
 united would appreciate response regarding pressurization failure flight seem responding less serious issues,negative,negative
 virginamerica spoke representative offered solution loyal customer flies virginatlantic well,negative,negative
 united someone send note revenue management team ask open bf gf seats,neutral,negative

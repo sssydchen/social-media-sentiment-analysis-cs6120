@@ -9,9 +9,11 @@ nltk_df = pd.read_csv("nltk_predictions.csv")
 sklearn_df = pd.read_csv("sklearn_predictions.csv")
 
 # calculate accuracy for both models
-nltk_accuracy = (nltk_df["true_label"] == nltk_df["predicted_label"]).mean()
+nltk_accuracy = (
+    nltk_df["airline_sentiment"] == nltk_df["predicted_sentiment"]
+).mean()
 sklearn_accuracy = (
-    sklearn_df["true_label"] == sklearn_df["predicted_label"]
+    sklearn_df["airline_sentiment"] == sklearn_df["predicted_sentiment"]
 ).mean()
 
 print(f"NLTK Model Accuracy: {nltk_accuracy:.4f}")
@@ -71,8 +73,8 @@ def plot_confusion_matrix(
 
 # plot and save NLTK model confusion matrix
 plot_confusion_matrix(
-    nltk_df["true_label"],
-    nltk_df["predicted_label"],
+    nltk_df["airline_sentiment"],
+    nltk_df["predicted_sentiment"],
     "NLTK (CountVectorizer)",
     nltk_accuracy,
     cmap_style="Blues",
@@ -81,8 +83,8 @@ plot_confusion_matrix(
 
 # plot and save Scikit-Learn model confusion matrix
 plot_confusion_matrix(
-    sklearn_df["true_label"],
-    sklearn_df["predicted_label"],
+    sklearn_df["airline_sentiment"],
+    sklearn_df["predicted_sentiment"],
     "Scikit-Learn (TF-IDF)",
     sklearn_accuracy,
     cmap_style="Greens",

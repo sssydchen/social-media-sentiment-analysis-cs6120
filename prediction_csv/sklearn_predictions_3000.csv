@@ -1,4 +1,4 @@
-text,true_label,predicted_label
+text,airline_sentiment,predicted_sentiment
 united far worst airline ever,negative,negative
 united switched fly united delta past two trips disappointed ua delayed hours,negative,negative
 united welcome world snow world today goosebayairport goose bay labrador canada http co ki xr nk,neutral,negative
