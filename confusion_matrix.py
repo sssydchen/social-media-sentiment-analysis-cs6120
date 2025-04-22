@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
@@ -6,7 +7,7 @@ from sklearn.metrics import confusion_matrix
 
 # read the predictions from CSV files
 nltk_df = pd.read_csv("nltk_predictions.csv")
-sklearn_df = pd.read_csv("sklearn_predictions.csv")
+logreg_df = pd.read_csv("logreg_predictions.csv")
 tf_df = pd.read_csv("tf_predictions.csv")
 bert_df = pd.read_csv("bert_predictions.csv")
 
@@ -14,8 +15,8 @@ bert_df = pd.read_csv("bert_predictions.csv")
 nltk_accuracy = (
     nltk_df["airline_sentiment"] == nltk_df["predicted_sentiment"]
 ).mean()
-sklearn_accuracy = (
-    sklearn_df["airline_sentiment"] == sklearn_df["predicted_sentiment"]
+logreg_accuracy = (
+    logreg_df["airline_sentiment"] == logreg_df["predicted_sentiment"]
 ).mean()
 tf_accuracy = (
     tf_df["airline_sentiment"] == tf_df["predicted_sentiment"]
@@ -26,7 +27,7 @@ bert_accuracy = (
 
 # print the accuracy results
 print(f"NLTK Model Accuracy: {nltk_accuracy:.4f}")
-print(f"Scikit-Learn TF-IDF Model Accuracy: {sklearn_accuracy:.4f}")
+print(f"Logistic Regression Model Accuracy: {logreg_accuracy:.4f}")
 print(f"Tf Model Accuracy: {tf_accuracy:.4f}")
 print(f"Bert Model Accuracy: {bert_accuracy:.4f}")
 
@@ -94,12 +95,12 @@ plot_confusion_matrix(
 
 # plot and save Scikit-Learn model confusion matrix
 plot_confusion_matrix(
-    sklearn_df["airline_sentiment"],
-    sklearn_df["predicted_sentiment"],
-    "Scikit-Learn (TF-IDF)",
-    sklearn_accuracy,
+    logreg_df["airline_sentiment"],
+    logreg_df["predicted_sentiment"],
+    "Logistic Regression (TF-IDF)",
+    logreg_accuracy,
     cmap_style="Greens",
-    save_path="sklearn_matrix.png",
+    save_path="logreg_matrix.png",
 )
 
 # plot and save Tf model confusion matrices
@@ -126,29 +127,39 @@ plot_confusion_matrix(
 # ===============================
 # Unit Test for plot_confusion_matrix function
 # ===============================
+matplotlib.use("Agg")  # Use non-interactive backend for testing
+
+
 def test_plot_confusion_matrix():
-    # Small dummy data
+    # Dummy true and predicted labels
     true = ["positive", "neutral", "negative", "positive", "neutral"]
     pred = ["positive", "positive", "negative", "neutral", "neutral"]
 
+    # Calculate dummy accuracy
+    accuracy = (np.array(true) == np.array(pred)).mean()
+
     try:
         plot_confusion_matrix(
-            true,
-            pred,
+            true_labels=true,
+            pred_labels=pred,
             model_name="Dummy Model",
-            accuracy=(np.array(true) == np.array(pred)).mean(),
+            accuracy=accuracy,
             cmap_style="Oranges",
-            save_path=None,  # Do not save during test
+            save_path=None,  # Not saving the plot during test
         )
-        # If no exception occurs, the test passes
-        print("test_plot_confusion_matrix passed.")
+        print("✅ test_plot_confusion_matrix passed.")
     except Exception as e:
-        print(f"test_plot_confusion_matrix failed: {e}")
+        print(f"❌ test_plot_confusion_matrix failed: {e}")
 
 
 # Run unit test
 test_plot_confusion_matrix()
 
-# Additional basic accuracy check
-assert 0 <= nltk_accuracy <= 1, "nltk_accuracy is out of bounds (0-1)"
-assert 0 <= sklearn_accuracy <= 1, "sklearn_accuracy is out of bounds (0-1)"
+# Ensure all accuracy values are within bounds
+for model_name, acc in [
+    ("nltk_accuracy", nltk_accuracy),
+    ("logreg_accuracy", logreg_accuracy),
+    ("tf_accuracy", tf_accuracy),
+    ("bert_accuracy", bert_accuracy),
+]:
+    assert 0 <= acc <= 1, f"{model_name} is out of bounds (0-1)"

@@ -3,7 +3,7 @@ text,airline_sentiment,predicted_sentiment
 flt ewr cancelled flightled yet flts nyc usairways still flying,negative,negative
 going bdl dca flight yesterday today every single one getting delayed,negative,negative
 depart washington c,neutral,neutral
-probably find ticket,negative,negative
+probably find ticket,negative,neutral
 still waiting hear back wallet stolen one plane would appreciate resolution,negative,negative
 yes flight rebooked 'm losing trust want get anywhere time,negative,negative
 thank paris could arrange something,neutral,neutral
@@ -12,8 +12,8 @@ great crew flight phx yvr tonight friendly efficient awesome job,positive,positi
 've hold change date ticket hour someone please assist unacceptable,negative,negative
 dm 'd,neutral,neutral
 already signed thanks looking forward trying southwest experience,positive,positive
-,neutral,negative
-oh well 'll get cancun eventually,positive,positive
+,neutral,neutral
+oh well 'll get cancun eventually,positive,negative
 flight passenger stuck plane philly gangway ca n't hear pilot,negative,negative
 no already waited hour wanted get home,negative,negative
 thanks quick response call daily wait day,positive,positive
@@ -23,15 +23,15 @@ get personal response apology crew 's forgotten load baggage onto flight,negativ
 no n't info infuriated way previous rep treated possibly work jetblue rep,negative,negative
 money sucking airline terrible terrible customer service,negative,negative
 btwn gate amp lost diamond earring dayjustgotworse pls maintenance look,neutral,negative
-shoutout kristie sp gate pvd today 's rockstar tremendous help tough situation promotethatgirl,positive,positive
+shoutout kristie sp gate pvd today 's rockstar tremendous help tough situation promotethatgirl,positive,negative
 family friend colleague never fly usair bad weather happens good airline seem communicate better,negative,negative
 landed thank anyway btw flight staff flight wonderful despite full day heavy load,positive,positive
 landing february avgeek warmweather,neutral,neutral
 ahhhh sorry followed,neutral,neutral
 ticket poor gesture goodwill missed trip top status flyer may not next time aa lhr ord,negative,negative
 've got get 've got excuse usairwaysfail,negative,negative
-'ll pas along advice guy rock,positive,positive
-bought tix atx dallas route thanks adding love yr airline amp yr website best transactional site ever,positive,negative
+'ll pas along advice guy rock,positive,negative
+bought tix atx dallas route thanks adding love yr airline amp yr website best transactional site ever,positive,positive
 haha no need apologize 'll flight booking problem sooner late flightr love jetblue,positive,negative
 hold hr ca n't get airport flight icy country backroads help pls human answer bna,negative,negative
 hour sorry n't get oh well screw weekend az right eat hotel no problem,negative,negative
@@ -54,7 +54,7 @@ get honest update departure flite plane infant child,negative,negative
 lost luggage day ago flight vx lax iad amp 'm calling every day no response please give back stuff,negative,negative
 ahhhh silence golden top anyone get fired,negative,negative
 landed boston last night hour traveling rough tho,negative,negative
-nice touch using first name intimate 'll filing claim soon reimbursed u airway day,positive,neutral
+nice touch using first name intimate 'll filing claim soon reimbursed u airway day,positive,negative
 also mere fact go online issue statement vice calling talking directly one good example,negative,negative
 thank,positive,positive
 u gate open min waiting great way finish hour delayed arrival,negative,negative
@@ -68,7 +68,7 @@ would rather plane get exposed nasty contagious virus work wth get flight change
 landed lit,neutral,negative
 gate agent routed impossible itinerary find new airline get u home super bummed,negative,negative
 apparently pilot made announcement engine trouble losing fuel quickly,negative,negative
-brilliant brisk boston cue vx,neutral,positive
+brilliant brisk boston cue vx,neutral,negative
 stiiiil waiting please respond flight leaf hr,negative,negative
 need cancelled flight one leg flight ca n't seem online hold phone minute help,negative,negative
 cancelled flight flight n't send email text call 'm stranded louisville,negative,negative
@@ -79,7 +79,7 @@ beyond redemption jfk baggage claim look like luggage warehouse,negative,negativ
 policy flying surgery,neutral,neutral
 going min waiting plane vacate gate findanothergate,negative,negative
 luggage forgot mia oscar,negative,negative
-'m makingloveoutofnothingatall brandloveaffair lax,positive,positive
+'m makingloveoutofnothingatall brandloveaffair lax,positive,neutral
 assigned seating cousin amp probably ca n't sit together flight tomorrow thanks,neutral,negative
 flight cost happens fly no problem come u time,negative,negative
 not u lose flight plan ur flight crew faa timed thx havin u sit tarmac hr pathetic,negative,negative
@@ -93,7 +93,7 @@ would brighter star combined red carpet tonight,positive,neutral
 've called resolve dividend mile issue week no avail please advise asap,negative,negative
 's standing cell no announcement no info thismosaicnothappy,negative,negative
 employee responsible social medium content yes u probably care however action last night say otherwise,negative,negative
-,positive,negative
+,positive,neutral
 gold status,neutral,negative
 trying call day get hung every time guy horrible,negative,negative
 go delayed chicago offer flight never intend fly,negative,negative
@@ -101,7 +101,7 @@ th,neutral,neutral
 haha clean plane held overnight hangar sound lovely also n't lie screensand say 's weather,negative,negative
 trying find airfare family price ridiculous almost notmadeofmoney,negative,negative
 could let know 'm staying tonight 've booked anything would great go,neutral,negative
-'ll checking often probably hand oscar nerd geek badly dressed,neutral,neutral
+'ll checking often probably hand oscar nerd geek badly dressed,neutral,negative
 illegal breach contract touch not customer feedback,negative,negative
 wife two new destination 'm stuck dc monday no bag,negative,negative
 's unusual mean screwed never admit goingforgreatnessfail,negative,negative
@@ -115,14 +115,14 @@ fly quite bit 's not difficult communicate agent let people know 's happening ar
 message delayed responded,neutral,negative
 's complete cop u ask issue nothing supposed sort situation,negative,negative
 experience worse flying experience 've ever met w contempt customer service make worse,negative,negative
-smf jfk,positive,negative
+smf jfk,positive,neutral
 word thanks,positive,positive
 made come help anything jp free ticket convince,neutral,negative
 guy horrible first get stuck snow hr ewr sitting cmh saying could min gate,negative,negative
 vacation day relevant ritz pr night losing day idiot sleeping newark ramada priceless,negative,negative
 baggage delivery bwi delayed unnecessarily chaotic disappointing long trip frequent traveler,negative,negative
 u suck big donkey ball,negative,negative
-flew san francisco fort lauderdale last year fantastic time would like go back,positive,positive
+flew san francisco fort lauderdale last year fantastic time would like go back,positive,negative
 please n't take membership away,negative,negative
 plan implement call back system reflight booking problem line hold hour,negative,negative
 plan support applepay board usairways mc would nice still use forget card,neutral,negative
@@ -139,7 +139,7 @@ miss oscar 'll never fly united,negative,negative
 would like reimbursed shuttle denver diversion hour sitting plane mech problem,negative,negative
 thanks response tough night involved flight got cancelled flightled started taxiing runway,negative,negative
 's going ua outbound flight last thurs delayed hr long delay worst unitedflightsever,negative,negative
-would like know 's going current flight land,neutral,negative
+would like know 's going current flight land,neutral,neutral
 current promotion code nashville denver thank,neutral,neutral
 flight dallas tuesday not going cancelled flightled correct,neutral,negative
 sweet promo code help visit family please lol,neutral,neutral
@@ -156,11 +156,11 @@ y'all real mvp price,positive,negative
 tux 'd date umosaicmecrazy,positive,neutral
 feb th rep gave record locator told 'd receiving email itinerary confirmation,negative,negative
 fantastic thanks try tweet photo view,positive,positive
-fyi customer service rep carol absolute delight pleasant rebooked lightning speed thanks,positive,positive
+fyi customer service rep carol absolute delight pleasant rebooked lightning speed thanks,positive,negative
 always pleasure,positive,positive
 told check airline regulation first contacted,neutral,negative
 hot stewardess flipped,positive,positive
-'re grandbabies week travel dc birth thank reasonable fare see saturday,positive,neutral
+'re grandbabies week travel dc birth thank reasonable fare see saturday,positive,positive
 bag mia since wednesday still no word 'll ever see lostluggage frustrated,negative,negative
 afternoon flight going bqn jfk seem find early morning flight,neutral,negative
 thanks actually made connection flight delayed guess delay not bad thing,positive,negative
@@ -210,7 +210,7 @@ okay thanks,neutral,positive
 ca n't even fit name first two line yes please pas feedback big downgrade previous year,negative,negative
 need talk get full refund trip call center offer no assistance,negative,negative
 no hotel voucher everyone get one not arrived amsterdam snowstorm,negative,negative
-seems little preoccupied 's 'm bringing attention flagging issue observer,negative,positive
+seems little preoccupied 's 'm bringing attention flagging issue observer,negative,negative
 's new ceo robin hayes battle appease passenger wall street business savannah,neutral,neutral
 thank apology,neutral,positive
 horrible customer service empty seat early flight wantcharge double get home early instead usual late flight,negative,negative
@@ -219,7 +219,7 @@ yes thanks took forever,negative,positive
 seems never received id password,negative,negative
 cause miss flight telling already left not no empathy gate staff crew no apology really,negative,negative
 hold u min wasting time amp n't appreciate wheresthecustomerserviceat,negative,negative
-hell u left alliance joined world beyond not smart move time start looking carrier,negative,positive
+hell u left alliance joined world beyond not smart move time start looking carrier,negative,negative
 no watched bag abandoned depart gate watched gt min owner returned min reported,negative,negative
 looking status flight schedule tomorrow morning thank,neutral,neutral
 make reservation 'll make excuse usairwaysfail,negative,negative
@@ -238,20 +238,20 @@ plus food taxi,negative,negative
 tried vip live vineyard yr site went time got redeem pt package gone,negative,negative
 secondly not begin boarding time despite aircraft present deplaned thus left min late flight,negative,negative
 calling number useless heading airport pick bag whole situation seems like real joke,negative,negative
-want change flight due weather condition dallas weekend able cover change fee mile,neutral,negative
+want change flight due weather condition dallas weekend able cover change fee mile,neutral,neutral
 hi add flight account created,neutral,neutral
 checking plane everyone board plane pissed,negative,negative
-new stroller travel credit n't help cover cost new stroller crew ruined therefore,negative,neutral
+new stroller travel credit n't help cover cost new stroller crew ruined therefore,negative,negative
 every time try call tell try late flightr hang,negative,negative
-partner checkout mobile payment method help boost mobile conversion rate etailwest payment visa,neutral,neutral
+partner checkout mobile payment method help boost mobile conversion rate etailwest payment visa,neutral,negative
 made feel guilty economy plus n't pay extra leg room,negative,negative
-know hard predict flight dallas nashville tomorrow,neutral,negative
+know hard predict flight dallas nashville tomorrow,neutral,neutral
 airline trouble winter amp not getting good customer service contact negotiate w company foru,negative,negative
 n't daughter booked gold member mile get upgrade list flight tomorrow,negative,negative
-ua flight sfo lax took carry gate 'm group overhead bin empty,neutral,negative
+ua flight sfo lax took carry gate 'm group overhead bin empty,neutral,neutral
 today sporadically changed flight departure time amp left two hour late flight uncharacteristic u,negative,negative
 considering 'm stuck newark virtually sleep hour doubt hope car rental available,negative,negative
-together best part flying,positive,negative
+together best part flying,positive,positive
 hold hour,negative,negative
 tried calling got high call volume moment message said goodbye hung,negative,negative
 guy big heart keep good work,positive,positive
@@ -269,21 +269,21 @@ no u cld explain disorganized inefficient company w surly obviously unhappy empl
 's 'm asking exception staffer moving last minute 're nonprofit amp losing want change ticket,negative,negative
 flight seattle lb much fuel no water lavoratories nice job guy est min behind,negative,negative
 show plane,neutral,negative
-fee,neutral,negative
+fee,neutral,neutral
 thanks get go destinationdragons show weekend utah thankyou,positive,neutral
 thanks causing u miss connection hour delay flydeltanexttime,negative,negative
 flight sf nyc made philly ur customer service telling no refund last leg offensive,negative,negative
 anything,neutral,negative
 ridiculous flight two hour rest wasted,negative,negative
-changed flight tonight could n't aa behalf instead flight tomorrow poor effort around,negative,negative
+changed flight tonight could n't aa behalf instead flight tomorrow poor effort around,negative,neutral
 personal device entertainment system great app crashing every min 'm glad 's free,negative,negative
 male flight attendant flight orlando indy amazing need raise best experience,positive,positive
 n't ever print known traveler number ticket never get use tsa prescreen paid,negative,negative
 hour minute want know 'm still queue,negative,negative
-thanks customer like stay loyal check landing,positive,negative
+thanks customer like stay loyal check landing,positive,positive
 no thanks minute someone eventually help u took care,negative,negative
 stranded miami without updating departure board cancelled flightled flight no,negative,negative
-made come help anything jp service n't great,negative,negative
+made come help anything jp service n't great,negative,positive
 company policy refuse employee speak employee phone interesting,negative,negative
 one look like problem fixed,negative,negative
 thanks cancelled flighting flight today missing required training not happy customer,negative,negative
@@ -300,7 +300,7 @@ end rt reminder tweeting join u,neutral,neutral
 awww thank b glad hear made day amp one last question idea tail operating flt maro,positive,positive
 waited min bag min flight nomorecheckedbags,negative,negative
 application io looking saw virgin mexico lt,neutral,neutral
-tv stream mean get spend flight watching woman 's world cup final throwback bestflightever,positive,neutral
+tv stream mean get spend flight watching woman 's world cup final throwback bestflightever,positive,negative
 amazing best follow please follow back,positive,positive
 thank finger crossed,positive,positive
 's new ceo seek right balance please passenger wall time colonist,neutral,neutral
@@ -311,10 +311,10 @@ everyones flight cancelled flightled today deserve,negative,negative
 made flight still no update email landed no info ever sent second flight losing biz,negative,negative
 fleet 's fleek noooooooooooooooooo,neutral,neutral
 late flight phoenix gave tick away arrived chicago held bag hostage chicago rented van drove toledo hr drive,negative,negative
-q purchased ticket hawaii trip late flight march mean acquire mile based price distance flown,neutral,neutral
+q purchased ticket hawaii trip late flight march mean acquire mile based price distance flown,neutral,negative
 love holy automated phone system going give like option give numerical shortcut,negative,negative
-flew flight month ago girlfriend got away sex restroom allowed,neutral,negative
-really would love experience first class plane look stunning,positive,negative
+flew flight month ago girlfriend got away sex restroom allowed,neutral,neutral
+really would love experience first class plane look stunning,positive,positive
 horrible experience passenger size seat offered voucher christine c,negative,negative
 want room food allowance agent refusing give u voucher use room book,negative,negative
 update flight orf phl no one gate,negative,negative
@@ -351,7 +351,7 @@ bet,positive,neutral
 really appreciate not easy way get another flight mine delayed hr mechanical reason,negative,negative
 minute plus get two first one transferred spanish hotline unacceptable,negative,negative
 give free baggage mess,negative,negative
-time arrive airport domestic flight san diego,neutral,negative
+time arrive airport domestic flight san diego,neutral,neutral
 two hour wait exps sit jfk phx flight u computer shot lax flight,negative,negative
 received awesome phone help jim today helped switch around flight booked point,positive,negative
 let 's say idontwannalivewithoutyourlove itwasminttobe bestinclasssocial thankyou travel business,neutral,negative
@@ -360,15 +360,15 @@ ccndjp send screen shot system error email address provided,negative,negative
 waiting plane long missed connecting flight left early 's last flight tonight help,negative,negative
 flight tomorrow status please thanks,neutral,neutral
 hour delay plus jetway wo n't move biz traveler never flying u,negative,negative
-resolution,negative,negative
+resolution,negative,neutral
 directed mobile website direct link get together,negative,negative
-de ice taxing maybe makestoomuchsense shouldhaveflowndelta unitedsucks,neutral,neutral
+de ice taxing maybe makestoomuchsense shouldhaveflowndelta unitedsucks,neutral,negative
 according dca seems recovering nicely yesterday 's snow cancelled flightling flight,negative,negative
 dm needed,neutral,negative
 yet still n't left yet ca n't watch pre paid directtv firstworldproblems,negative,negative
 're early frontrunner best airline oscar,positive,positive
 bullying workforce not ok get gate agent work team never cool delay flight unitedairlines,negative,negative
-im boat flight jacksonville get,negative,negative
+im boat flight jacksonville get,negative,neutral
 sound like planned better since weather no surprise completely unacceptable wait time,negative,negative
 thanks attention 've flying southwest year n't issue past,positive,positive
 no offered flight paid changed nd time done ruin cruise plan,negative,negative
@@ -376,7 +376,7 @@ hour flight fll ewr waiting hour plus bag no sign yet give,negative,negative
 lax amp got phone w reservation every flight 'd get bos tmrw apparently unavailable,neutral,negative
 's charge company wife missed connection ca sent luggage another flight,negative,negative
 hi saw black history month commercial tv amp im excited support month grant free trip,positive,positive
-sent,neutral,negative
+sent,neutral,neutral
 review system notification website telephone system place clearly inadequate,negative,negative
 great job getting flight minute early bad 're minute counting waiting bag,negative,negative
 sorry meant flight supposed depart say issue,negative,negative
@@ -389,7 +389,7 @@ brazil volunteer teaching english amp spanish poor child skill improve chance be
 checking status claim going month no attention upset,negative,negative
 called jb time everytime auto vmsg wait time not longer min waited longer min no answer,negative,negative
 admit not app good lot useful func live seat map congrats,positive,negative
-outline policy scenario,neutral,negative
+outline policy scenario,neutral,neutral
 not company value 's customer amp reading tweet 'm not one feel way lostmybusiness,negative,negative
 free wifi flt pbi make hr delay treat u right,negative,negative
 'm rebooked getting home hour late flightr planned chance 'll ever see bag unhappytraveler,negative,negative
@@ -405,7 +405,7 @@ day maybe,negative,negative
 frustrating still not gotten back bag sent ny mystery shame time,negative,negative
 orthodoc call flight glad service,positive,negative
 possible earn dividend mile passenger not even purchasing ticket,neutral,negative
-using social business roadmap develop intelligent path embed social across enterprise ragandisney,neutral,neutral
+using social business roadmap develop intelligent path embed social across enterprise ragandisney,neutral,negative
 flight u stuck plane nearly hr set take flight control deny u worst service,negative,negative
 capital one explained false fraud alert jet blue representative issue new tkt n't resolved,negative,negative
 guy made day treated well thank,positive,positive
@@ -418,8 +418,8 @@ know would amazingly awesome bos fll please want fly,positive,positive
 designed deter people forgetting thing provide storage space article say latter unfriendlyskies,negative,negative
 roundtrip ticket need change one leg trip nearby airport not possible via website,neutral,negative
 outbound bag lb bag returning home bag lb logic writing machine human help required,negative,negative
-oops sorry done,neutral,negative
-ua lax den scheduled land lax please rebook denver best flight,negative,negative
+oops sorry done,neutral,neutral
+ua lax den scheduled land lax please rebook denver best flight,negative,neutral
 notification yet staff board say not accurate no departure time,negative,negative
 trying make change advance not hour prior tried online earlier wanted change fee,negative,negative
 asshole cut front system blow,negative,negative
@@ -442,7 +442,7 @@ flight booking problem flight using credit previously cancelled flightled flight
 service philly unacceptable look better service yr old shouldnt hard time,negative,negative
 showed flight several hour early tried call amp hold min b f call disconnected,negative,negative
 need help never got ticket conf ggqzqd,neutral,negative
-rd party service known ezee flight man confirmed born india told name steve wilson,neutral,neutral
+rd party service known ezee flight man confirmed born india told name steve wilson,neutral,negative
 hey friend phone list number ivr hang multiple time not sure proceed,negative,negative
 sent email customer relation com work,neutral,negative
 btw name samantha everyone flight,positive,negative
@@ -450,10 +450,10 @@ flight veers icy runway dfw flight cancelled flighted mon figure right,negative,
 still offer discount seat child would rather put seat lap,neutral,negative
 late flight crew btv last nite delayed today flt miss connection cun play hotel tonight ewr,negative,negative
 need wheelchair gate sure option,neutral,negative
-status flight mco lga tomorrow,neutral,negative
+status flight mco lga tomorrow,neutral,neutral
 spoke baggage claim center gave travel credit not responsible cost,negative,negative
 another customer non service waited solve problem would miss funeral suck,negative,negative
-amazing flying mile unitedairlines amp alliance last year still got jilted status moneyelsewhere,positive,negative
+amazing flying mile unitedairlines amp alliance last year still got jilted status moneyelsewhere,positive,positive
 really culture problem everyone tried work blamed someone else told 're short staffed,negative,negative
 start new job tomorrow amp cancelled flight flight bwi lax really ca n't get another flight today,negative,negative
 flight amazing best flight ever not kidding service incredible,positive,positive
@@ -482,29 +482,29 @@ many people ua going miss connection due long wait time sfo tarmac seriously u c
 well thng wait someone explain u situation responsibility,negative,negative
 yes traveling marsh harbor,neutral,neutral
 no choice pay another go airport hope treated better rep,negative,negative
-leave certain thing kid,neutral,negative
+leave certain thing kid,neutral,neutral
 thank help p guy best americanairlines americanair,positive,positive
 wo n't site let book ticket nov jfk kin,negative,negative
-bring copy photo baby 's birth certificate flight feel uncomfortable traveling real thing,neutral,neutral
+bring copy photo baby 's birth certificate flight feel uncomfortable traveling real thing,neutral,negative
 cancelled flight flight vx one sec delayed airport next cancelled flightled gon na email call reschedule,negative,negative
 ahah love sw,positive,positive
 used committed continentalairlines flyer merger remember switched communicationfail,negative,negative
-,neutral,negative
+,neutral,neutral
 lt lt rt sorry hear wifi connection dani please dm u conf help thanks,negative,neutral
 set notification aa amp u airway still nothing,negative,negative
-st flight morning flying toddler plane heated comfortable temp boarding start itscold,neutral,positive
+st flight morning flying toddler plane heated comfortable temp boarding start itscold,neutral,neutral
 pls get back tallahassee no one ever stranded gainesville long,negative,negative
-know ala live far far away book,neutral,negative
+know ala live far far away book,neutral,positive
 help flight jkf tonight seat c left portfolio need back,neutral,neutral
-amp dfw psp thank,positive,positive
+amp dfw psp thank,positive,neutral
 jason gate san made afternoon southwestairlines stellarservice thanks,positive,positive
 narrowly made standby lot snag trip,negative,negative
 not cancelled flightling n't want put u hotel night guess,negative,negative
-filled form website darn guess 'll cross finger,negative,neutral
+filled form website darn guess 'll cross finger,negative,negative
 dm sent,neutral,neutral
 staff commence new policy industry embarrassed,negative,negative
 flight cll wo n't let check please help importantflight,negative,negative
-lacma fairfax,neutral,negative
+lacma fairfax,neutral,neutral
 waiting minute hold yall cancelled flightled return flight answer phone,negative,negative
 thanks,positive,positive
 'm upset luggage damaged rude employee laguardia airport n't help,negative,negative
@@ -514,18 +514,18 @@ not sure would bother agent airport didnt help amp nobody phone would ticket can
 phone rep min transferred asking not worse rep ever,negative,negative
 hold hr got cutoff cancelled flightled flight ca n't get booked cruise florida terrible customer service,negative,negative
 thank 'll touch moveaboutthecountry,positive,positive
-wanted connect discus sponsorship opportunity silicon valley day film festival,neutral,positive
-counter agent rdu deserve medal thankyou,positive,positive
-see report team,negative,negative
-order,neutral,negative
-club den east west disgusting,negative,negative
+wanted connect discus sponsorship opportunity silicon valley day film festival,neutral,negative
+counter agent rdu deserve medal thankyou,positive,negative
+see report team,negative,positive
+order,neutral,neutral
+club den east west disgusting,negative,neutral
 respect stress merger one rep reschedule replane ppl already late flight youcandobetter,negative,negative
 flight cancelled flightled due weather next,negative,negative
 u would not able rebook get home sooner hr delayed flight linesforever customerservice fail,negative,negative
-dealing w solve probs team created manch nh staff clearly c team btw notevenjv,negative,positive
+dealing w solve probs team created manch nh staff clearly c team btw notevenjv,negative,negative
 dinner called hon not service would expect st class disappointed,neutral,negative
 landed phoenix board flight quickly vega no time airport,neutral,negative
-totally would outside view even camera ready haha evenmorespace evenmoreview,positive,positive
+totally would outside view even camera ready haha evenmorespace evenmoreview,positive,negative
 issue finding missing item plane help find airport plane headed next,neutral,negative
 apparently sleeping b terminal n't worst situation someone told ua passenger sleep baggage claim,negative,negative
 left computer plane two week late flightr found sent greatservice happy customer,positive,negative
@@ -541,12 +541,12 @@ yea booked next avalible flight since sat time come no plane nd day work missed 
 heading jfk principle alone deal w lost amp damaged bag jetblue jetbluesucks jfk badservice fail,negative,negative
 add pillow instead lie flat seat first class arm race,neutral,neutral
 far delayed go look like tailwind going make good news,negative,negative
-great job today ruining people 's vacation thanks incompetent pilot staff missed flight,negative,negative
+great job today ruining people 's vacation thanks incompetent pilot staff missed flight,negative,positive
 another dead end handle aa l amp f gave failed already vm full lost,negative,negative
 need assistance pulling agent ' head ass,negative,negative
-open credit card earn mile wont ' credit mile account restore forfeited mile,negative,neutral
+open credit card earn mile wont ' credit mile account restore forfeited mile,negative,negative
 thought moving lot business first impression count glad mile not cash,negative,negative
-not happy flyer ua flight sfo cleveland sunday stay tuned blog article,negative,neutral
+not happy flyer ua flight sfo cleveland sunday stay tuned blog article,negative,negative
 hear last call boarding flight jfk hour ago good luck w flight,neutral,negative
 well degree could know experience 'm cancelled flighting mile card thank god,negative,negative
 heard rumor flight cancelled flightled true,neutral,negative
@@ -556,12 +556,12 @@ need get ric tonight 've ewr hr,negative,negative
 week,neutral,negative
 site errored last step changing award ca n't even pull reservation minute wait time thanks,negative,negative
 thanks beareavement discount anymore not book online,neutral,neutral
-dang thought teleportation device ua,negative,negative
+dang thought teleportation device ua,negative,neutral
 inconvenience understatement like torture clearly going wrong path jetblue,negative,negative
 yea refund airline ruined trip,negative,negative
 certainly not impression 's,neutral,negative
 way amp best friend could get ticket destinationdragons mean everything world u,neutral,neutral
-go golfunited,neutral,negative
+go golfunited,neutral,neutral
 look like best hope guess 's u air n't think 'll get mile alaska suck,negative,negative
 want go new orleans houston see dad md anderson help,neutral,neutral
 thanks giving away seat another fine job,positive,positive
@@ -571,12 +571,12 @@ let one person board early bird save seat entire party notcool flight,negative,n
 get service desk iad,neutral,negative
 n't need cut service charge give better flying experience 's use jet blue first place,positive,negative
 trying take stuff seat front bugging throughout flight n't feel safe,negative,negative
-many ticket left,neutral,negative
-n't look fat look yummy,positive,positive
+many ticket left,neutral,neutral
+n't look fat look yummy,positive,neutral
 sister received call trip wednesday flts cancelled flightled resched next day,negative,negative
 flight cancelled flightled ca n't get desk nothing showing online reservation,negative,negative
 ad phone system waiting rep annoying thing ever especially waiting min,negative,negative
-understanding helped thx comp,positive,negative
+understanding helped thx comp,positive,positive
 third straight time flight delayed flying guy last trip,negative,negative
 still say ca n't check flight information incorrect everything entered correctly,negative,negative
 ok thank quick response jetblue still best comp,positive,positive
@@ -584,7 +584,7 @@ no hold time disconnection no excuse,negative,negative
 problem n't issued position today gate no option upgrade not good 're ',negative,negative
 simply amazing smile mile thank u upgrade tomorrow ord spending lot time together next week,positive,positive
 two broken airplane two day late flightr 'm stranded funeral missing last semester college,negative,negative
-hope pilot good day,neutral,negative
+hope pilot good day,neutral,positive
 nope rebook houston could get amarillo pm stuck sfo four hour,negative,negative
 no thanks took care called,positive,negative
 'm flight finally air not enough food feed customer no movie entertainment hr flight,negative,negative
@@ -613,12 +613,12 @@ bought plane ticket month ago still n't received flight info ticket email come,n
 thanks,positive,positive
 refuse customer willing pay upgrade half first class empty,negative,negative
 rep would n't rebook waste time poor communication,negative,negative
-thats weak see ya hey,negative,negative
+thats weak see ya hey,negative,neutral
 get finally board ua,neutral,negative
 u lost ground power three different time not grounded endlessly without air light entertainment,negative,negative
 normally late flightst flight experience worst hour runway no wifi amp tv not working properly,negative,negative
 not yet 'm next terminal customer service area,negative,negative
-n't see aa,neutral,negative
+n't see aa,neutral,neutral
 no flight hrl limited route,negative,negative
 would consider honoring original fare price try flight booking problem ticket,negative,negative
 trying speak agent flight london tonight ca n't get anyone aa help,negative,negative
@@ -630,30 +630,30 @@ guy rock,positive,positive
 trying since file report,negative,negative
 's planned boston traffic due recent weather insane expedited would made,neutral,negative
 need request refund flight cancelled flightled morning due weather,negative,negative
-flight orlando,neutral,negative
+flight orlando,neutral,neutral
 expect delay dca departure going orlando flight,neutral,negative
 received luggage also looked left snow arrived 'm asking people refunded,negative,negative
 waiting luggage flight delay,negative,negative
 not yet see shortly,negative,negative
-yeah figured thanks,positive,negative
-would like help flight please,neutral,negative
+yeah figured thanks,positive,positive
+would like help flight please,neutral,neutral
 yes filed report atlanta bag charlotte nc hour late flightr still ca n't find luggage,negative,negative
 maybe stop telling people wrong info customer service call,negative,negative
 happened doom,neutral,negative
-u pilot started flight announcing arrival gatwick not heathrow moment concern aboard,negative,neutral
+u pilot started flight announcing arrival gatwick not heathrow moment concern aboard,negative,negative
 's not inconvenience disaster 's phone bill refuse pay,negative,negative
 still develop app favorite airline,neutral,negative
 yep moved showed flying standby,neutral,negative
 hold minute need help usair wo n't help,negative,negative
-know 're dealing weather hot mess pls send reinforcement,negative,negative
-access frankfurt arrival lounge 'm flying global first class,neutral,neutral
+know 're dealing weather hot mess pls send reinforcement,negative,neutral
+access frankfurt arrival lounge 'm flying global first class,neutral,positive
 alright thank page say route aircraft specifically,neutral,neutral
 waiting half hr package 's wrong guy,negative,negative
 ord roc fam came see sna 'm member dad used mile,neutral,neutral
 flight home cancelled flightled today way get another flight nyc texas hour wait call back airline,negative,negative
 phone disconnect stay line need checkout hotel hr amp no place go ca n't keep calling,negative,negative
 not true gate agent caused 're not helpful thanks making miss connection,negative,negative
-happy sfo hopefully 'll add pdx soon added two new destination fll sfo la vega last year,neutral,neutral
+happy sfo hopefully 'll add pdx soon added two new destination fll sfo la vega last year,neutral,positive
 plane 's waiting gate two hour passenger onboard cramped seat yuck,negative,negative
 'm upset lied told ice runway every carrier able fly airport confirmed no ice,negative,negative
 must traveler miss flight late flight check bag missed morning appointment lost business sfo lax,negative,negative
@@ -669,7 +669,7 @@ missing flight attendant delayed flight prime example person impact 's people hn
 never fly terrible service ruined entire vacation lostsuitcase noreimbursement,negative,negative
 're sending gate agent talk u joke airline thanks ruining vacation neverflyaaagain,negative,negative
 phone agent ca n't see flight see online ca n't change ticket even paying frustrating jetblue,negative,negative
-instead bourbon street quiet plane savethediagonals,neutral,neutral
+instead bourbon street quiet plane savethediagonals,neutral,negative
 tweeted apology not enough delay fiasco none insult gate agent worse except mark n bad clt,negative,negative
 aa time awesome flight great job american,positive,positive
 glad know 'll flying luv airline tomorrow,positive,positive
@@ -678,15 +678,15 @@ thanks,positive,positive
 scheduled flight sat morrow cho clt cho need added weather advisory please evaluate asap,neutral,neutral
 nice wonder pick respond maybe happy customer easier wonder many left,negative,negative
 line waiting minute,negative,negative
-sfo gt au ua jx seat appears mite problem dr recently confirmed bug bite mite,negative,neutral
+sfo gt au ua jx seat appears mite problem dr recently confirmed bug bite mite,negative,negative
 way could look option today,neutral,negative
 im flying mi boston icelandair iceland hour check bag way,neutral,negative
-good morning tamara 'll try get comfortably flight soon noxtralegroom nocoatcloset,negative,positive
+good morning tamara 'll try get comfortably flight soon noxtralegroom nocoatcloset,negative,negative
 flight arrives e penguin plane,neutral,negative
 called told bag made phl still not delivered call delivery service,negative,negative
-plane crew professional courteous gate agent flustered,positive,positive
+plane crew professional courteous gate agent flustered,positive,negative
 agent sent family diff plane dfw late flight due delay cancelled flighted plane started fail,negative,negative
-'s minus minute elevate silver upgrade window open freeneversucks,positive,negative
+'s minus minute elevate silver upgrade window open freeneversucks,positive,neutral
 worst postpone trip ca n't accommodate guest like neveragain,negative,negative
 engineer designed door frame extend half foot plane seat forced always sit,negative,negative
 'm line airport right cover hotel fair sleep airport,negative,negative
@@ -705,11 +705,11 @@ jfk baggage office open help book u cancelled flightled flight dca shameful,nega
 standby far two u snow storm hitting iowa tomorrow could stuck two day,negative,negative
 middle seat sfo gt bos not fun keep getting credit would much rather working tv,negative,negative
 caught earlier flight ord gate checked bag 've lost o'hare original flight land minute frustrating,negative,negative
-always love opening upgrade email,positive,neutral
+always love opening upgrade email,positive,positive
 cancelled flighting flight minute takeoff amp sitting min runway rescheduled flight badservice,negative,negative
 congrats got business ewr sfo lax fuck fl sfo ewr clincher,negative,negative
 denied mom flight needed breast pumping part full flight please fix asap freeflight,negative,negative
-ready go disneyworld princesshalf,positive,positive
+ready go disneyworld princesshalf,positive,neutral
 break whatever want take no responsibility bad customer medium filmcrew nytimes,negative,negative
 's free wifi board best thing 's happened since sliced bread,positive,negative
 hour operation club sfo posted online current,neutral,negative
@@ -736,7 +736,7 @@ thanks,positive,positive
 not possible carry put closet overhead success airline thanks,neutral,negative
 flight worse last flight attendant n't even know whether plane equipped power outlet seat,negative,negative
 minute hold far still n't spoke human never using,negative,negative
-amen,neutral,negative
+amen,neutral,neutral
 considered adding 'll call back someone free feature support line,negative,negative
 saving grace flight attendant dallas amazing wish would transfer delta would see,negative,positive
 rt new airline expected make way mem,neutral,neutral
@@ -761,20 +761,20 @@ let u plane bc toilet done even work go family vacay playa del carmen mexico nev
 understand flight day not going twice 'm extra med diaper baby,negative,negative
 amsterdam ewr,neutral,negative
 know suicide second leading cause death among teen,neutral,neutral
-use aa credit platinum select world mastercard alaska flight american,neutral,neutral
+use aa credit platinum select world mastercard alaska flight american,neutral,negative
 lack customer service astounds worst airline history airline train staff,negative,negative
-employee spreading bit mardigras cheer morning atlanta nftyconvention,neutral,positive
+employee spreading bit mardigras cheer morning atlanta nftyconvention,neutral,neutral
 's ceo kelly draw record crowd business partnership breakfast,neutral,neutral
 's number called would n't let speak agent issue weather today,negative,negative
-lost bag flight vega el paso going dallas love gate attendant said see coordinate get love,negative,positive
+lost bag flight vega el paso going dallas love gate attendant said see coordinate get love,negative,negative
 thanks weather disruption caused crew run late flight 're sorry delay flight,negative,negative
 lol fleet fleek see yall ballin new jet deck,neutral,neutral
 's employee gate jfk telling people bag n't fit need checked clearly fit aa,negative,negative
-pls help get resolved amp reimbursement made gracias rico pls send private msg phone number email address,negative,negative
+pls help get resolved amp reimbursement made gracias rico pls send private msg phone number email address,negative,neutral
 thx note flight cancelled flightled today booked go another carrier,negative,negative
 denied upgrade catering issue poorservice,negative,negative
 make u tru find space flight customer service bad,negative,negative
-best u could might get refund within billing cycle month u guy asking another chance 'm done,negative,neutral
+best u could might get refund within billing cycle month u guy asking another chance 'm done,negative,negative
 tried reaching guy 'm running time patience want flight honor want confirmation,negative,negative
 hour gate plane late flightr still not update explanation apology worstairlineever unitedairlines,negative,negative
 got gate thanks checking,positive,positive
@@ -810,14 +810,14 @@ need help air clt phl conf mqf need confirmed bna bumped day need home,negative,
 head n't check bag checked arrived n't claim people 's bag,negative,negative
 asked boyfriend prom loudspeaker flight said yes best day ever thank u much,positive,positive
 redeem pas admiral club free visit barclay card membership bring companion,neutral,neutral
-lol 'm sorry 'm seeing lauren oh god ahhhh,positive,positive
+lol 'm sorry 'm seeing lauren oh god ahhhh,positive,neutral
 thank u thank u thank u coming u sincerely n't think would happen lt swa thankyou,positive,positive
 two non rev right,neutral,negative
 delayed depart bc ur flight attendant n't landing took hr get gate 's another no bag,negative,negative
 need follow dm give info,neutral,neutral
 pair ticket show atlanta 'd love go destinationdragons,neutral,neutral
 get account number website say email unavailable,negative,negative
-thanks link finally arrived brussels h schedule,negative,negative
+thanks link finally arrived brussels h schedule,negative,positive
 ever consider coming memphis need trueblue service fare badly,neutral,negative
 appreciated case waited extra minute lost mechanic fax log fax like,negative,negative
 landed safely everything worked,positive,positive
@@ -827,20 +827,20 @@ update flight philly la sitting gate close hour,negative,negative
 bad enough no seat assigned 's seating exit seat male flight attendant remove,negative,negative
 refund,negative,negative
 bad weather multiple cancelled flighted flight u scared noted next time,negative,negative
-uhuh group trying get nashville iad today instead tomorrow preemptive though,neutral,negative
-sure 'll send message,neutral,negative
+uhuh group trying get nashville iad today instead tomorrow preemptive though,neutral,neutral
+sure 'll send message,neutral,neutral
 offering special fare,neutral,neutral
 despicable flight plan lost 've sitting tarmac hour min flight,negative,negative
-think group could use nice cold drink get air,neutral,negative
+think group could use nice cold drink get air,neutral,neutral
 think best first class ever gotten denver lax 's wonderful,positive,positive
 connect person without wait hour hold still n't able resolve problem,negative,negative
 even airline scheming get follow obj lmaooo,neutral,negative
-well n't,positive,negative
+well n't,positive,positive
 never mind could told gate way could delay min not,negative,negative
 thank acknowledgement ife n't work well anyway maybe time upgrade lower profile system,negative,positive
 cancelled flightled ca n't get two day no explanation,negative,negative
 great hear thankyou much greatly appreciate reply feel much settled,positive,positive
-thanks kp please also mention quiche breakfast tandoori chicken dinner entree accompaniment truly first class,positive,neutral
+thanks kp please also mention quiche breakfast tandoori chicken dinner entree accompaniment truly first class,positive,positive
 really need better system handling cancelled flightled flight,negative,negative
 flight already cancelled flightled morning snow storm denver 'm dc waiting pilot get,negative,negative
 denied not sure charge one way way hime,negative,negative
@@ -858,7 +858,7 @@ dm hold customer service long time min getting run around thanks,negative,negati
 keep waiting time not cost anything hundred people payed thousand dollar no feedback,negative,negative
 bad say take day via confirmation email inquired week claim week,negative,negative
 hour policy called said n't report soon enough would changed noticed sooner,negative,negative
-thank service credit positive thought,positive,positive
+thank service credit positive thought,positive,neutral
 use luv swa hour counting hold flight cancelled flighted noluv,negative,negative
 completely let tonight gate agent ' ambivalence much sad amp,negative,negative
 yes nonstop memphis tomorrow morning snow coming got finger crossed go,neutral,neutral
@@ -891,13 +891,13 @@ boooo n't like airline,negative,negative
 charging people see freaking flight map,negative,negative
 wifi plane got ta pay help broke homegirl,negative,negative
 quick question bought wifi phone buy tablet hour left trip,neutral,negative
-please n't go check process us mco 's absolute disaster,negative,negative
+please n't go check process us mco 's absolute disaster,negative,neutral
 thanks ella mae la counter going beyond help u get back abq flight cancelled flightled,positive,negative
 nicest people ever flight chicago thanks david deane amp norma sedholm making feel comfortable,positive,positive
 soon done article thanks tom,positive,positive
 actually cared would one thing sound like n't like told lousy service,negative,negative
 thanks remembering load bag onto connecting flight oh wait forgot iceland fun no clothes,negative,negative
-qsvgru would next flight arrive,neutral,negative
+qsvgru would next flight arrive,neutral,neutral
 's consolation staff stellar not hour delay encountered every one flight,negative,negative
 mean posted no usair empl direct anyone not accepting call no contact usair rebook greatjob,negative,negative
 made cancelled flight car reservation came money reschedule time without crew,negative,negative
@@ -909,7 +909,7 @@ flight dfw cancelled flightled today,neutral,negative
 certainly not,negative,negative
 not fast enough no excuse service big hub outdated craft southwest wifi awful,negative,negative
 well fly huntsville al 'd take either nashville birmingham,neutral,neutral
-gate iad rdu,neutral,negative
+gate iad rdu,neutral,neutral
 no charge delay united still waiting,negative,negative
 pretty frustrating ca n't even stay hold get help flight cancelled flightation,negative,negative
 fort launder dale gate agent ca n't switch flight earlier flight phone ridiculous,negative,negative
@@ -921,12 +921,12 @@ coach interior ua looked like salvaged tiny unusable video no power amp lifevest
 generic form ton field asking info already expected premier platinum another servicefail,negative,negative
 thank alicia exceptionalservice,positive,positive
 y'all fast already winner congrats,positive,neutral
-never felt better taken care indian aunty gold standard thanks aruna,positive,negative
+never felt better taken care indian aunty gold standard thanks aruna,positive,positive
 empty help desk,negative,negative
-love tv ad girl dancing make laugh every time want take trip,positive,positive
-oh irony dog not spot barking waiting area right front please send cocktail coupon stat,negative,neutral
-guest need change flight reservation need happen say please help,neutral,negative
-thank n't really responding request sending generic environment site,negative,positive
+love tv ad girl dancing make laugh every time want take trip,positive,negative
+oh irony dog not spot barking waiting area right front please send cocktail coupon stat,negative,negative
+guest need change flight reservation need happen say please help,neutral,neutral
+thank n't really responding request sending generic environment site,negative,negative
 tried leave monday plane left mine one keep getting delayed missed work pay cab,negative,negative
 hi booked flight yesterday received email w confirmation number today got error no active flight segment,neutral,neutral
 thanks southwest saving trip sweetheart n't going miss seeing altonbrownlive thanks y'all sohappy,positive,positive
@@ -953,7 +953,7 @@ important accept others swadiversity,neutral,neutral
 know hockey stick expensive baggage handler n't throwing cart,negative,negative
 getting bit ridiculous made miss full day work pay cab back forth,negative,negative
 absolutely,neutral,negative
-accommodated dsm flight tonight delay myrtle beach flight dsm back tonight,negative,positive
+accommodated dsm flight tonight delay myrtle beach flight dsm back tonight,negative,neutral
 flt ground n't gate u dca happening,negative,negative
 ca n't american airline suppose,negative,negative
 patience connecting flight need guy every time travel every single time,negative,negative
@@ -962,11 +962,11 @@ stuck two day airport not something pretty normal positive find plane europe,neg
 left ipad flight erw den opened claim many memory plz help get back,negative,neutral
 want icecream baby,neutral,negative
 never got strip fast stoked special show tonight thx,positive,positive
-whatever lil mint heart desire,neutral,positive
+whatever lil mint heart desire,neutral,neutral
 flight mco delayed amp scheduled arrive connection departs option,negative,negative
 ugh kicking missing destinationdragons need back life,neutral,negative
 kudos 're done heading warmer weather,positive,positive
-unable use departing flight still use returning flight,neutral,negative
+unable use departing flight still use returning flight,neutral,neutral
 appreciate apology sincerely thank 's really ever wanted begin,positive,positive
 would like talk customer service agent service non service received last flight week go j,negative,negative
 maybe drive usairwaysfail,neutral,negative
@@ -974,32 +974,32 @@ flight leaving dallas right maui trying figure delayed flight going,negative,neg
 get kind update delayed flight boston houston really need back home tonight,negative,negative
 already rebook miss first appointment london tomorrow morning thanks ruining trip,negative,negative
 flight jfk ege cxld runway hour flight moved wo n't give luggage back nice,negative,negative
-apply ur credit card automatically get companion certificate wait,neutral,negative
+apply ur credit card automatically get companion certificate wait,neutral,neutral
 nightmare ever end found flight today delayed due ground handling delay affecting prior flight,negative,negative
 using jetblue air mile,neutral,negative
 need go frm tpa mci tmrw amp connection thru dfw cancelled flightled u connect thru diff city hold hr,negative,negative
 poor storm customer service hr takeoff delay waiting snack cart rude steward no name love guy trueblue,negative,negative
 thank best could get rebooked agent phone amp addtl resolution dm much appreciated,positive,positive
 changed aadvantage travel plan amp called get help sea ur busy amp hang give,negative,negative
-understand thanks,neutral,negative
+understand thanks,neutral,positive
 thank update,positive,positive
 'm disappointed flight cancelled flighted mostly excited listen song 'm blue flying jetblue,negative,negative
 suck,negative,negative
 thanks,positive,positive
 ewr ppl told call x day since monday still layover loc ref tho help appreciated,negative,negative
-rescue sundown chicago next stop san antonio,neutral,neutral
+rescue sundown chicago next stop san antonio,neutral,negative
 letting san fran no medium rate 's deal look like last time fly anywhere,negative,negative
-news departure flight ua,neutral,negative
+news departure flight ua,neutral,neutral
 never fly went vacation week lost bag way no clothes thankyou,negative,negative
 raleigh not updated southern state advisory,negative,negative
 nightmare continues,negative,negative
 ok th try today giving minute hold time terrible,negative,negative
 fly american family severe weather excuse ca n't call make change computer u cant modify,negative,negative
-still n't able get thanks responding,neutral,negative
+still n't able get thanks responding,neutral,positive
 thanks,positive,positive
 change hold music going hour 'm loose,negative,negative
 bag possession no clothes bag,negative,negative
-thanks canned response make look like care customer 'm sure twitter user fall,negative,positive
+thanks canned response make look like care customer 'm sure twitter user fall,negative,negative
 checked online tomorrow 's flight thought get auto upgrade already got email saying no seat,neutral,negative
 san diego chicago leaving tomorrow,neutral,neutral
 're stuck ogg look like flight cancelled flightled help,negative,negative
@@ -1024,17 +1024,17 @@ found great price thru u air honeymoon website wont work hold hour told min,nega
 agent iad compounded problem not making announcement jetbluemess,negative,negative
 expect,negative,negative
 dear american hour hold time become industry standard heard additional staffing weather,negative,negative
-stop using word 're company rt fleet 's fleek,negative,neutral
+stop using word 're company rt fleet 's fleek,negative,negative
 seriously hr get bag iad intl arvls carousel custs w cancelled flightled connects understand irrops ridiculous,negative,negative
 possible add companion nd leg trip,neutral,neutral
 utterly unreliable n't schedule pilot u flight seattle flight delayed usairwaysfail,negative,negative
-addition reviewing blog agent pleasant experience less,negative,positive
+addition reviewing blog agent pleasant experience less,negative,negative
 u returned gate get mel sticker oh look heard pilot no clue mel sticker anyone,negative,negative
 change correct last name via reservation already said ca n't change ticket name,neutral,neutral
 minute hold waiting ridiculous,negative,negative
-best follow please,positive,neutral
+best follow please,positive,positive
 lord fleet 's fleek,neutral,neutral
-thanks lol ua wait u per tail number ua,positive,negative
+thanks lol ua wait u per tail number ua,positive,neutral
 blaming flight luggage debacle luggagegate,negative,negative
 nice try heard crew whisper 's still hotel probably n't think work tomorrow,negative,negative
 no ua finally cancelled flighted hr delay replacement flight leaf late flightr one scheduled tomorrow not cool,negative,negative
@@ -1049,12 +1049,12 @@ taking year fly home dallas get shit together,negative,negative
 stop cancelled flighting flight not provide real help customer strandedinnashville,negative,negative
 fat man stuck airplane bathroom,negative,negative
 sorry mary martin first,neutral,negative
-flight tomorrow reservation coming help,neutral,negative
+flight tomorrow reservation coming help,neutral,neutral
 horrendous pull shit together,negative,negative
 hi flying domestic first sea hnl pay use lounge fly international thanks,neutral,neutral
 waste time airline get automated message disappointing always,negative,negative
 customer service terrible,negative,negative
-mine,neutral,negative
+mine,neutral,neutral
 's vega baby n't good time vega lol,neutral,neutral
 waive fee time cancelled flightation waive future date usairways ripoff poorcustomerservice,negative,negative
 u not gate ready gate agent going hour two,negative,negative
@@ -1071,15 +1071,15 @@ understood thanks anyway,positive,positive
 almost million mile w u loyal u r u going reciprocate joke,negative,negative
 told no record refund someone please help long day,negative,negative
 please improve phone system going multiple prompt amp menu told call back late flightr major fail,negative,negative
-appreciate shoutout roberto dm confirmation code forward kind word sent,neutral,positive
+appreciate shoutout roberto dm confirmation code forward kind word sent,neutral,neutral
 way simple apology go long way even 's hollow one 's obvious n't care well,negative,negative
 rude rude,negative,negative
 incentive give another chance,negative,neutral
 's valentinesday email point amp clever thanks amazing jetblue loveisintheair,positive,positive
-yes please,positive,negative
+yes please,positive,neutral
 hour delay make nice offer rescheduling next day,negative,negative
 rebooked missed flight never called didnt check email cont,negative,negative
-thank say website,neutral,negative
+thank say website,neutral,positive
 no email no phone call no nothing 've screwed flight family friend flight cancelled flighted reservation,negative,negative
 fcuk shit service got no fan,negative,negative
 lack customer service shined need step get lost baggage delta return,negative,negative
@@ -1108,7 +1108,7 @@ no no no dm pay money want reach help way around,negative,negative
 sent another drink coupon think coupon free drink anyone,positive,negative
 southern hospitality luggage delivery service sav awful great delivering empty promise not luggage hr amp waiting,negative,negative
 would great k u,positive,positive
-done sorry thought already,neutral,negative
+done sorry thought already,neutral,neutral
 hold hr ca n't get airport flight icy country backroads help pls bna,negative,negative
 checking see flight atl ord got cancelled flighted,negative,negative
 flight jacksonville fl dallas showing cancelled flightled going rebooked another flight,negative,negative
@@ -1120,7 +1120,7 @@ cost change ticket cost purchase new ticket,negative,neutral
 flight chicago buffalo hour flight not care safety,negative,negative
 going nothing like always,negative,negative
 biggest joke 've ever seen telling everyone never use guy cause joke,negative,negative
-yes delta,neutral,negative
+yes delta,neutral,neutral
 token goodwill voucher passenger stuck flight phoenix today hour mark per passenger,negative,negative
 o n't controlled rather app new,neutral,negative
 expecting delay cancelled flightlations dallas th due snow nothing like monday hope,neutral,negative
@@ -1137,9 +1137,9 @@ not okay since could n't put earlier flight buy ticket another airline,negative,
 walked gate ask desk gate,negative,negative
 sigh fleet 's fleek,neutral,neutral
 one look must getting old damn,negative,negative
-got cheese plate flight,neutral,positive
+got cheese plate flight,neutral,neutral
 well time not going happen safety come look like 'll look another flight sttimeflyer,negative,negative
-lol thanks switch american,negative,neutral
+lol thanks switch american,negative,positive
 flight aa cx aa killing layover still wanting breakfast 'm hungry get dfw,negative,negative
 enormous line customer service two agent kind service,negative,negative
 also n't ice frozen metal walkway wasted minute no one knew simple job,negative,negative
@@ -1155,7 +1155,7 @@ seriously ridiculous n't wait hour luggage land wtf,negative,negative
 learned although travel policy waive change fee still charged reservation fee,negative,negative
 pre schooler develop app thing crash every single time,negative,negative
 international airline experienced record profit last quarter ca n't staff call center,negative,negative
-question downgrade include losing first class get money back,neutral,neutral
+question downgrade include losing first class get money back,neutral,negative
 exciting time ahead,positive,negative
 awesome thanks thanks quick response guy rock,positive,positive
 manage place family plain none sitting next one yr old,negative,negative
@@ -1167,7 +1167,7 @@ anyone answering phone rebook cancelled flightled flight,negative,negative
 never airline refuse help sit parent tiny kid guy willing jetblue,negative,negative
 late flightr complete itinerary change lost work time yeah got rebooked,negative,negative
 thank jetblue credit nice save,positive,positive
-thanks helping reflight booking problem cancelled flightedflight yvonne anthony help u get tel aviv time happyfriday,positive,positive
+thanks helping reflight booking problem cancelled flightedflight yvonne anthony help u get tel aviv time happyfriday,positive,negative
 ca n't wait never fly always delayed always lose bag rudest people planet southwest best,negative,negative
 extra care airline unitedairlines n't care trust customerservice non existent n't,negative,negative
 nope walked amp orf terminal amp not united agent found showed last minute board u many panicked people,negative,negative
@@ -1175,7 +1175,7 @@ sent dm thanks incredibly happy fast response got via twitter via customer care 
 flight still waiting bag u checked hour ago people missing connection please help,negative,negative
 false,negative,negative
 voucher expires next week get extension expires,neutral,negative
-truly best customerservice something go wrong no matter big small issue fix thank,positive,negative
+truly best customerservice something go wrong no matter big small issue fix thank,positive,positive
 hour delay supposed land pm 's still not boarding epicfail,negative,negative
 speaks basically worst designed web system ever,negative,negative
 thanks effing holiday 're missing full day skiing due baggage team 's incompetence,negative,negative
@@ -1189,7 +1189,7 @@ horrible experience check agent fort myers 'll document send detail boston,negat
 thank calling cheapoairchat,positive,positive
 really fucked day hilo lax hr min delay software missed connection getting home hr late flightr no upgrade nothin,negative,negative
 issue requires bit tweet explain email,neutral,neutral
-'s bull add fare cart locked made way paypal,negative,negative
+'s bull add fare cart locked made way paypal,negative,neutral
 great operation guy running mechanical issue taping piece plane together lol,neutral,negative
 get weather delay not hand nothing else offer massive inconvenience,negative,negative
 favorite airline 've never issue plus crew entertaining,positive,negative
@@ -1212,14 +1212,14 @@ expanding nantucket aviation,neutral,neutral
 follow send info,neutral,neutral
 thanks changed managed arrive hour delay exhausted,negative,negative
 would get early enough not green tag no go not otis would still sitting ord,negative,negative
-thanks bleh disconnected let 's try,negative,negative
+thanks bleh disconnected let 's try,negative,positive
 thanks,positive,positive
 flt delayed maintenance 's fixed ca n't board flight crew n't stay boarding area fail,negative,negative
 no rebook flight board bham,negative,negative
 give u air philly talk real person acarl com,negative,negative
 really,neutral,negative
 great flight cabo last week family smoothflight frequentflyer,positive,positive
-pv get approved ready go,neutral,negative
+pv get approved ready go,neutral,neutral
 lie,negative,negative
 thank know ya 'll ca n't control weather appreciate ya 'll working get flight rebooked last two day,positive,negative
 definitely lot announcement app great,positive,positive
@@ -1247,31 +1247,31 @@ exit row window shade approx window rj lt frequent flyer,negative,negative
 uwo n't allow make change online force sit thru excess phone wait time amp still insist charging crazy fee thats service,negative,negative
 please employee called time flight crew finish maintenance u depart,negative,negative
 another airline 's accommodating customer unable simply change passenger notice simply,negative,negative
-link article say route time route likely like tul dal pm none,neutral,neutral
+link article say route time route likely like tul dal pm none,neutral,negative
 suck teco teco reclameaqui tripadvisor,negative,negative
 noservice good luck trying reach human twice sat hold min neveragain,negative,negative
 delivered thank making sure arrived doorstep,positive,positive
-friend need help flt 's not twiiter dm info,neutral,negative
+friend need help flt 's not twiiter dm info,neutral,neutral
 please explain cost almost price full roundtrip fair change departure time flight,negative,negative
 yes hung called different number,negative,negative
 thanks getting back nashville big thanks pilot baltimore flying snow landing ice,positive,positive
 lie continue waited another hr get boarding pass flight supposedly created today cancelled flightled,negative,negative
 interested possibly changing flight another day need see fee number busy,negative,negative
-even year earthquake haiti still need help rebuilding flyingitforward,neutral,neutral
+even year earthquake haiti still need help rebuilding flyingitforward,neutral,negative
 hour delay misplaced bag poor communication worse unsympathetic confrontational gate agent not cool,negative,negative
 pet allowed first class,neutral,neutral
 give delayed hour mco jfk every time,negative,negative
 loosing lot business using barclays cant believe cant apply card live iowa,negative,negative
 worst avoid like plague,negative,negative
-thanks got straightend last night,neutral,negative
+thanks got straightend last night,neutral,positive
 finally take thanks customer service g rep c ctl idea caused system failure,negative,negative
 done thank much,positive,positive
-sending n jb uvf today weekday not weekend ',negative,neutral
+sending n jb uvf today weekday not weekend ',negative,negative
 continue amazed amazing customer service thank swa,positive,positive
 atlantic plough lone furrow middleeast,neutral,neutral
 link n't work 've tried tracking bag several time still n't clarify,negative,negative
 providing poor customer service responding complaint copy paste template flight unrelate flightd complaint usairwaysfail,negative,negative
-kax premium hoping flight better food tv know work service tnx,positive,neutral
+kax premium hoping flight better food tv know work service tnx,positive,negative
 ready let 's say together 'noooo turbulence today ',neutral,negative
 happens n't located,negative,negative
 good one indeed 's jetblue 's finest day history,positive,positive
@@ -1279,18 +1279,18 @@ fuk u u airway yo shitty chicken salad sandwich overpriced u fuking make wait hr
 motor usually start engine broke ground crew failed time per pilot maintenance,neutral,negative
 customer service fll bwi pit terrible no one know bag job no clothes amp gear,negative,negative
 got help nice lady phone georgia thank,positive,positive
-'s pick best picture n't want board airline know,neutral,negative
+'s pick best picture n't want board airline know,neutral,positive
 tried no one available bogota everyone rude houston stuck hour guy,negative,negative
 would nice earlier today late flight hope,negative,negative
-lovely part long day attendant ua ua beyond exceptional today givethoseladiesraise,positive,positive
+lovely part long day attendant ua ua beyond exceptional today givethoseladiesraise,positive,negative
 yes bag came hr arrived baggage claim awful experience ground bhm,negative,negative
 customer service atrocious,negative,negative
 's direct miami w seat u rebooked niece tuesday ca n't get phone customerservicefail,negative,negative
 flight phl fll cancelled flighted no flight available done sw,negative,negative
 thanks much,positive,positive
-flew sdf atl tampa delta left early arrived early crew helpful wifi worked,positive,positive
-no problem thing worked airport thanks,positive,negative
-wife flew italy recently bought ticket via finnair flight operated usair n't get dividend mile credited,negative,neutral
+flew sdf atl tampa delta left early arrived early crew helpful wifi worked,positive,negative
+no problem thing worked airport thanks,positive,positive
+wife flew italy recently bought ticket via finnair flight operated usair n't get dividend mile credited,negative,negative
 ticket office boston impossible book phone use voucher website headache please help,negative,negative
 yes want complain coworker neither customer service point airside,neutral,negative
 no word delay reason twitter aflame flight tracking computer crash rumor true not,negative,negative
@@ -1299,7 +1299,7 @@ anyone answering phone today listening damn message minute,negative,negative
 delayed twice cancelled flighted sent complaint email yet no response need explanation pls notsatisfied smh unhappy,negative,negative
 called back put hold 's midnight literally want know 'm getting home 'm getting no help,negative,negative
 no claim number n't back iad baggage since phone call speak someone,negative,negative
-followed tried record locator number gave error code,negative,negative
+followed tried record locator number gave error code,negative,neutral
 yup minute limit waiting hold thanks nothing,negative,negative
 's not getting better 'd suggest get senior manager gate retrain gate people,negative,negative
 long day philly pm flt ord cancelled flighted no notice no message no email not nice platinum,negative,negative
@@ -1341,7 +1341,7 @@ k thanks,neutral,positive
 team offer flight access journal broadway world,neutral,neutral
 hr late flightr still ca n't figure random text update embarrassing ua,negative,negative
 jt ord phl flight pm cdt delayed dm 'm kinda hoping not stranded ord either,neutral,negative
-yes please,positive,negative
+yes please,positive,neutral
 much help disappointed customer service,negative,negative
 heard charge st bag tighter seat no need loyal jb customer anymore,negative,negative
 worst airline cancelled flight flight n't let know wait hold min told enter callback middle night,negative,negative
@@ -1370,15 +1370,15 @@ ca n't believe united ca n't find someone simply check seat back missing passpor
 last night thanks following,positive,positive
 luggage flight waiting hour bag jetblue poorservice,negative,negative
 thanks taking care today michele rocked customer service gate hou,positive,positive
-really looking forward flight let know rescheduled diehardvirgin,negative,negative
+really looking forward flight let know rescheduled diehardvirgin,negative,positive
 calling tell flight rescheduled hour late flightr supposed seems like bad solution,negative,negative
 spoke corp customer support already shame probably reasonable cheaper resolution regard,negative,negative
-sister amp bil stuck detroit desperately need florida flying w anything,neutral,neutral
+sister amp bil stuck detroit desperately need florida flying w anything,neutral,negative
 hold hour minute 's going,negative,negative
 hold hour connected wrong department automated system transferred another min amp counting,negative,negative
 accepting reservation past august,negative,neutral
 ca n't make change website still charged dollar using phone,negative,negative
-long take point rr shopping post account got email saying 've earned point n't see em,negative,neutral
+long take point rr shopping post account got email saying 've earned point n't see em,negative,negative
 need chat actual human asap,negative,negative
 no wo n't hour holding give could n't borrow phone longer hour,negative,negative
 take note great example actually making good extremely inconvenient situation,positive,positive
@@ -1388,7 +1388,7 @@ bag arent even loaded plane flight,negative,negative
 want go home tonight cancelled flight last leg reserv w permission ph rps,negative,negative
 way fly elevate gold,positive,negative
 yeah 'm looking specific date keep checking daily fare drop,neutral,neutral
-always enjoy time plane dfw,positive,positive
+always enjoy time plane dfw,positive,negative
 airport code test go slc bos mco,neutral,neutral
 disappointed toll free number terrible customer service flight cancelled flightled would like get home,negative,negative
 worst service ever denied access flight moved flight time hard schedule gate next time,negative,negative
@@ -1403,18 +1403,18 @@ ah given one shuttle voucher ever get back airport 'll getting bill,neutral,nega
 sent thanks,positive,positive
 happy found phone easily worst system ever heard,negative,negative
 gee 's like almost caring ppl think 'm int trusted adult w daughter,neutral,negative
-thanks friendly u airway staff helped get booked various flight get home today almost,positive,negative
+thanks friendly u airway staff helped get booked various flight get home today almost,positive,positive
 got rebooked aa one question though automatically refund check baggage fee flight cancelled flightled,negative,negative
 would person take hour hour wait time tell lie,negative,negative
 left ipad seat pocket filed lost item report received exactly week late flightr record unbelievable,positive,negative
-dating back nov sent back forth 's disgrace,negative,negative
-yes dulles need delivered embassy suite herndon va 'm still chicago fiasco lax,negative,neutral
+dating back nov sent back forth 's disgrace,negative,neutral
+yes dulles need delivered embassy suite herndon va 'm still chicago fiasco lax,negative,negative
 improve envoy 's performance th trip ord 've delayed hour envoy could drive faster,negative,negative
-please help trace luggage put without name tag february albuquerque airport,negative,neutral
+please help trace luggage put without name tag february albuquerque airport,negative,negative
 never mor e disappointed company charging use wifi work apps parhetic,negative,negative
 appreciate quick response no one go outside check temp leave buf currentlysittingontarmac,negative,negative
-'m pulling hair trying book flight u site n't work iphone ipad n't computer help,negative,neutral
-would love virgin like,positive,positive
+'m pulling hair trying book flight u site n't work iphone ipad n't computer help,negative,negative
+would love virgin like,positive,neutral
 worst experience ever guy see blog tomorrow experience maybe help make better,negative,negative
 would also like say kind move adding point,positive,negative
 thank help quick response,positive,positive
@@ -1435,7 +1435,7 @@ told offload captain hour terrible experience,negative,negative
 something going alert flight 's delayed several time parent 'm not receiving alert,negative,negative
 submitted case aa customer relation two week ago no word ever since whats point even cr,negative,negative
 best agent could put flight arriving tomorrow afternoon six hour layover,negative,negative
-anticipate decision cancelled flightlations dfw tomorrow morning need rearrange hotel reservation etc asap,negative,negative
+anticipate decision cancelled flightlations dfw tomorrow morning need rearrange hotel reservation etc asap,negative,neutral
 phone customer service team bad think time consider switching airline,negative,negative
 finally got call aa automated voice hung called back amp say 'll hour,negative,negative
 lol estimated departure time plane n't even started boarding yet ca n't even get delay right,negative,negative
@@ -1451,14 +1451,14 @@ still missing luggage promised someone would call no call far flight shanghai dc
 great week,positive,positive
 plane sitting hanger day numerous mechanical problem n't anyone actually maintenance,negative,negative
 insane traffic la trying call schedule flight phone minute nothing,negative,negative
-hiring emerging leader development program last day apply today apply,neutral,neutral
+hiring emerging leader development program last day apply today apply,neutral,negative
 worst customer service flight always delayed,negative,negative
 fleet 's fleek oh word,neutral,neutral
-no thank,neutral,negative
+no thank,neutral,positive
 nice rt vibe moodlight takeoff touchdown moodlitmonday sciencebehindtheexperience,neutral,neutral
 hold w customer service line minute phone agent min b f call droped,negative,negative
 switch seat trip sunday,neutral,negative
-thanks 's helpful understand reduced price seat sold check priority certificate,positive,negative
+thanks 's helpful understand reduced price seat sold check priority certificate,positive,positive
 happy purchase upgrade avail next flight,positive,negative
 great job looking forward next trip able use new feature,positive,positive
 keep returning call hanging answer help reflight booking problem flight,negative,negative
@@ -1470,20 +1470,20 @@ checked app since yesterday confirmed upgrade amp carry got counter amp manager 
 tried change flight three time phone got disconnected time,negative,negative
 decision decision 'd love try service offer status match kp,neutral,neutral
 sinus contend two painful landing rather one missed preregistration window beyond frustrated,negative,negative
-return flight scheduled wednesday aa believe thanks help,positive,negative
-site clearly explains allowed carry allowed pit not bos make sense,negative,negative
+return flight scheduled wednesday aa believe thanks help,positive,neutral
+site clearly explains allowed carry allowed pit not bos make sense,negative,neutral
 item sentimental value 'm heartbroken missing,negative,negative
-process begin,neutral,negative
+process begin,neutral,neutral
 told jfk hour delay reason delay ca n't hard notify hour notice,negative,negative
 'm game 're buying,neutral,neutral
 sure 'm running version,neutral,neutral
-wine served usairways flight watered somehow right bottle,negative,negative
+wine served usairways flight watered somehow right bottle,negative,neutral
 rt fleet 's fleek,neutral,neutral
 flight looking tomorrow morning nashville bna fort lauderdale fll,neutral,neutral
 wounded vet stuck hv trouble agent help hold no answer twitter pls respond,negative,negative
 special promotion flight departing newark nj st john 's antigua,neutral,neutral
-booked flight guy 'm reconsidering decision reading tweet,negative,neutral
-yes slc,neutral,negative
+booked flight guy 'm reconsidering decision reading tweet,negative,negative
+yes slc,neutral,neutral
 thanks kp luckily transfer maintenance issue still delayed n't miss transfer,negative,negative
 let assure travel time h not h timezones accuratetraveltimes rdtimethishashappened,negative,negative
 trying get san juan chicago o'hare lot problem may get standby flight,negative,negative
@@ -1499,9 +1499,9 @@ not letting dm fsz yo,negative,negative
 denver phoenix think 're finally getting ready take,neutral,negative
 might possibly worst airline ever think 's time brush customer service sorude,negative,negative
 could beginning bluetiful relationship lifeneedsfrosting,positive,negative
-'ll hearing sure,neutral,negative
+'ll hearing sure,neutral,neutral
 many others n't know stopping non stop flight atl hartford ct april,negative,neutral
-way add known traveler number existing reservation online not not,neutral,neutral
+way add known traveler number existing reservation online not not,neutral,negative
 update dot looking united fare london u last week,neutral,negative
 wifi dca stl route hour flight could use love,negative,negative
 thank truly appreciate help sent dm,positive,positive
@@ -1512,7 +1512,7 @@ fleet 's fleek,neutral,neutral
 took bos bwi plane flight stl promised replacement hour late flightr hour delayed not happy,negative,negative
 's awesome library,positive,positive
 u get crew member waiting told minute ago landed still not gate,negative,negative
-hope take selfie stick plane today goingtovegas,neutral,positive
+hope take selfie stick plane today goingtovegas,neutral,negative
 make premium wifi pay decent slow fi,negative,negative
 flight cancelled flightled call n't accepting call reschedule flight,negative,negative
 incompetent,negative,negative
@@ -1521,7 +1521,7 @@ plane sitting no one going home usairwaysfail,negative,negative
 dm explain whole story earlier flight not u,negative,negative
 honestly ruining fucking life right never,negative,negative
 every time search flight site log give error message book different airline cancelled flight card,negative,negative
-plane sound like dj scratching normal eventually new entertainment fee,negative,negative
+plane sound like dj scratching normal eventually new entertainment fee,negative,positive
 funny flight yesterday delayed mechanical issue rotten luck get plane row issue,negative,negative
 collectively since friday 've hold customer service hr issue not resolved frustrated,negative,negative
 watch parent break stroller amp tell look fine print,negative,negative
@@ -1530,7 +1530,7 @@ hr searching flts find site amp ca n't book offered bc seg n't really available 
 rudeness poor customer service job requirement waiting hr still n't even seen one plane,negative,negative
 still like united airline,positive,negative
 waiting day military bag airport hour away horrible,negative,negative
-no worry delay minor dealt nicely captain flight way,positive,negative
+no worry delay minor dealt nicely captain flight way,positive,neutral
 phone,neutral,negative
 not 's concerned,neutral,negative
 karen riedel rock star employee miracle worker really appreciated help morning,positive,positive
@@ -1538,7 +1538,7 @@ flight departing even board,negative,negative
 going flight delay lot,negative,negative
 tell professor n't show class write midterm 'm stuck no flight home,negative,negative
 boarding flight captain informs could exceed hr regulation turned plane around incredible,negative,negative
-breastfeeding momma 's watching story country better work faster response,negative,positive
+breastfeeding momma 's watching story country better work faster response,negative,negative
 long character,negative,negative
 think actually not like screen,negative,negative
 flight delayed another hour min transit lax extremely unlikely make,negative,negative
@@ -1554,11 +1554,11 @@ luckily people working bso chicago midway attentive found bag punta cana,positiv
 normal receive no reply central baggage baggageissues smh,negative,negative
 app bad feel bad,negative,negative
 ua madrid arrived no agent mass confusion sent fro ua employee maryjo rude unhelpful,negative,negative
-friendliest employee,positive,positive
+friendliest employee,positive,negative
 lost voucher given miami aeroport jan not use,neutral,negative
 hello hold extremely long time confirmation amp ca n't get boarding pas tried numerous time,negative,negative
 took hour half though,negative,negative
-pregnant lady 's hoping amp praying hubby flight bwi get ground 'd like get baby,neutral,negative
+pregnant lady 's hoping amp praying hubby flight bwi get ground 'd like get baby,neutral,neutral
 cx'ed almost entire east coast flight plane taking traveling fine need get nev asap,negative,negative
 every time call 'm hold min get disconnected way someone help,negative,negative
 well someone tell employee denver baggage claim still no bag,negative,negative
@@ -1574,17 +1574,17 @@ hi update,neutral,neutral
 thank may already responded uxzj,neutral,positive
 worst air experience ever not first plane yet,negative,negative
 wife hold minute get weather bad insane customerservice customerloyalty,negative,negative
-thanks finally made missed meeting,negative,negative
+thanks finally made missed meeting,negative,positive
 cancelled flighted flight tomorrow morning number nothing please want go home,negative,negative
 flight fort lauderdale bwi cancelled flight flight flight trip 'd,neutral,negative
 airline not flying bna today,negative,negative
 n't mean tsa precheck show mobile boarding pas ktn linked account,negative,neutral
 thanks,positive,positive
-landed phl row window cover n sw could use luv,negative,negative
+landed phl row window cover n sw could use luv,negative,neutral
 work hard making sure thing flow smoothly keeping positive,positive,positive
 chairman preferred lifetime mile u air reward no firstclass upgrade usual,negative,negative
 family no longer get early boarding young kid american new parent give u,negative,negative
-jh thanks much reaching able get assistance waiting minute,negative,negative
+jh thanks much reaching able get assistance waiting minute,negative,positive
 've hold one hour four minute reservation line possibly business way,negative,negative
 got email cust care issue offering voucher claim emailed back got no reply dm,neutral,negative
 thanks guy sweet route rockies airplanemodewason,positive,positive
@@ -1594,7 +1594,7 @@ thanks making effort credit credit due flight delayed hour instead hour fwiw low
 need train employee lease somewhat empathetic lose luggage monika mwa need pr lesson,negative,negative
 no update anything know issue front wheel locked,negative,negative
 way dm,neutral,neutral
-dream,neutral,negative
+dream,neutral,neutral
 think boarded flight au early think,negative,negative
 flight vcp jfk delayed cancelled flighted,negative,negative
 flight cancelled flightled called said 'd call back hung saying wait hr,negative,negative
@@ -1605,7 +1605,7 @@ trying desperately rebook mom flight waited hour callback got disconnected call 
 little surprised early bird got b den kc worst 've 's,negative,negative
 monday evening,negative,neutral
 system always hang,negative,negative
-good luck dfw evening aa,positive,negative
+good luck dfw evening aa,positive,neutral
 website not give correct info said bag miami key west entire time got run around day,negative,negative
 mad love nyc,positive,positive
 gary serving u fll airport counter really true blue make feel home even jetblue flight delayedl,positive,negative
@@ -1625,11 +1625,11 @@ give belfast hug new unmissable bushug format impact busads thinkbus,neutral,neu
 could tell upgrade available flight stl tomorrow morning,neutral,neutral
 another bad experience today frozen pipe missing connection,negative,negative
 dm possible n't following,neutral,neutral
-like hearing n't replied tweet email yet,negative,negative
+like hearing n't replied tweet email yet,negative,neutral
 almost hour coin understand higher call volume unacceptable,negative,negative
 know complain rt reminder tweeting,neutral,neutral
 key point confusion whether make change even though initial flight booking problem u airway metal,neutral,neutral
-thank tried said n't anywhere else try,positive,negative
+thank tried said n't anywhere else try,positive,positive
 followed dm 'd,neutral,neutral
 plane ground longer air u,negative,negative
 one bag n't make destination claim ticket way help status location,negative,negative
@@ -1645,27 +1645,27 @@ wife trying get group client destination got disconnected hour holding help,nega
 trading customer experience short term sad previous loyal customer,negative,negative
 no crew gate,negative,negative
 thank wasting time amp money not arrive hour late flight destination,negative,negative
-hooking u getting u tampa flight cancelled flightled morning grateful businesstrip,negative,neutral
-next exactly,neutral,negative
+hooking u getting u tampa flight cancelled flightled morning grateful businesstrip,negative,negative
+next exactly,neutral,neutral
 oh gosh seriously made day week year no one appreciate,positive,negative
 basically stole glass ca n't drive see class 're not answering phone call thanksjetblue,negative,negative
 's hour point let people plane,negative,negative
 idea u n't want u frustrated n't cancelled flight flight crew overflowed toilet get plumber,negative,negative
 great called fucking phone number hung,negative,negative
 even multiplier ticket price still never equal amount mile travel even transatlantic flight,neutral,negative
-deleted tweet one wonderful employee swooped help faith restored one good one,positive,negative
+deleted tweet one wonderful employee swooped help faith restored one good one,positive,positive
 easily ridiculous experience trying spend money company,negative,negative
 day travel swag ijustwanttosleep,neutral,negative
 finally thx,positive,positive
 would go italy visit relative see house dad left passed,neutral,neutral
 never heard,negative,negative
-speaking flight skateboard allowed carry bagage right no extra payment needed,neutral,neutral
+speaking flight skateboard allowed carry bagage right no extra payment needed,neutral,negative
 made upgrade list fly st tomorrow min first time ever statusmatchpaidoff,positive,negative
 phone call hr sent back amp forth two line terminal 's skycap find solution,negative,negative
 weather keep slowing u not fault st time southwest flight mine late flight ca n't complain,positive,negative
 sure dm'ed,neutral,neutral
 need get home th 're telling 'll th night compensation anything done,negative,negative
-log view reservation try view specific reservation amp take back login page,negative,neutral
+log view reservation try view specific reservation amp take back login page,negative,negative
 great thank,positive,positive
 chance allowing reflight booking problem yet travel denver weekend due impending storm,neutral,negative
 great job passbook integration really help streamline commute san fran,positive,positive
@@ -1698,7 +1698,7 @@ completed form doubt 's use ua n't care day vacation sure ua wo n't feel respons
 go back home use company available 's unfair stay h traveling,negative,negative
 kid fly n't hire people n't care guy jetblue,negative,negative
 puppy cute look forward board thanks high five ey,positive,positive
-n't know u define controllableirregularity,neutral,negative
+n't know u define controllableirregularity,neutral,neutral
 many agent working handle thousand call,negative,negative
 yes every one every flight like need velcro something,negative,negative
 not rebooked n't get notified cancelled flightled,negative,negative
@@ -1708,9 +1708,9 @@ patient agent explains booked new flight plane n't arrive,negative,negative
 horrific flight experience guy made never want fly airplane every,negative,negative
 nothing else gj customer service,negative,negative
 tsa pre n't showing boarding pass 've followed step please help,negative,neutral
-maybe machine,neutral,negative
-great job losing one six bag direct flight n't know manage,negative,negative
-getting depends vibe fair enough,neutral,neutral
+maybe machine,neutral,neutral
+great job losing one six bag direct flight n't know manage,negative,positive
+getting depends vibe fair enough,neutral,negative
 upset not select seat tuesday flight online phone terrible customer service please help,negative,negative
 not mechanical issue evidence point idea il cll fault not weather,negative,negative
 'm checked agent would n't tag bag 'm standing line hell,negative,negative
@@ -1736,8 +1736,8 @@ ok 's super helpful thank 'll reach question,positive,positive
 okie doke knowing fix,positive,negative
 'm another country please cancelled flight reservation 've booked swiss air,neutral,negative
 going since ca n't take option gave type refund,negative,negative
-flight,neutral,negative
-always happy help,positive,negative
+flight,neutral,neutral
+always happy help,positive,positive
 bad weather happens lack preparation inexcusable depending good weather not good business model,negative,negative
 switched fly united delta past two trip disappointed ua delayed hour,negative,negative
 tried 're not helpful terrible customer service airport least,negative,negative
@@ -1749,7 +1749,7 @@ luggage still not found luggage not scanned final destination no way knowing,neg
 might not urgent really,negative,negative
 flight nashville cancelled flightled another flight 've trying call amp not get human,negative,negative
 customer service clt terrible flight delayed jfk hour get clt horrid customer service,negative,negative
-empty first class seat flight check would n't automatically upgraded,neutral,negative
+empty first class seat flight check would n't automatically upgraded,neutral,neutral
 really n't offer sweep link n't going work b,negative,negative
 guy suck delay flight ca n't hold connector minute worstairlineever,negative,negative
 hi discount award policy credit card holder change no longer seeing chart special site thanks,neutral,neutral
@@ -1759,7 +1759,7 @@ stuck sju several hour no one answering really tough luv sw no response bad,nega
 absolutely staff amazing,positive,positive
 happening flight fll sfo delay reroute,negative,negative
 worst customer service experience ever bad 'm lawyer enjoy wrath,negative,negative
-know probably no way get cheaper airfare ticket flight leaving hour,neutral,negative
+know probably no way get cheaper airfare ticket flight leaving hour,neutral,neutral
 thanks outstanding nyc jfk crew moved mountain get home san francisco tonight,positive,positive
 plane stuck newburgh wo n't start weather relate flightd well passenger plane hr,negative,negative
 called hung,negative,negative
@@ -1805,7 +1805,7 @@ get thru hold hour,negative,negative
 've completely ruined pro athlete 's ability prepare race wo n't help get bike need dr,negative,negative
 flight fll sfo no speed line even though paid no coffee flight non stop unscheduled stop,negative,negative
 would go dallas see grand baby miss much feel like piece heart,neutral,negative
-best follow please,positive,neutral
+best follow please,positive,positive
 guy know musician sensitive safety instrument flying good reason,negative,positive
 sfo pdx schedule still mia,negative,negative
 bag not yet located th time 've checked tracking bag hard system,negative,negative
@@ -1830,7 +1830,7 @@ waiting line hour san antonio barely moved amp two agent front amp least behind,
 slept miami airport due mechanical issue given bonus mile try make right slapintheface,negative,negative
 given,negative,negative
 exactly ill flying aa dallas airline trust,positive,negative
-link email offer u sent year buy transfer mile last expired,negative,neutral
+link email offer u sent year buy transfer mile last expired,negative,negative
 want helpful find u seat n't quote term condition jetbluefail,negative,negative
 ask lot customer routinely screw know right,negative,negative
 awaiting return phone call would prefer use online self service option,negative,negative
@@ -1849,7 +1849,7 @@ help appreciated 's looong wait help something 's not fault,negative,negative
 's girl got ta get flight name change bought one mean ex boyfriend need girl 's trip stat,neutral,neutral
 thanks opportunity,positive,positive
 no min hold finally hung ridiculous wait time assist cancelled flighting reservation,negative,negative
-no snow st louis cold no snow hub flight welcome,neutral,neutral
+no snow st louis cold no snow hub flight welcome,neutral,negative
 thank flew newark vail eagle,positive,positive
 ticket office boston impossible book phone use voucher website headache please help,negative,negative
 stop madness fleet 's fleek,negative,neutral
@@ -1857,7 +1857,7 @@ peak caucasity rt fleet 's fleek,neutral,neutral
 've hold minute terrible customer service messed reservation,negative,negative
 big surprise flight delayed hopefully not hour like flight thanks sleepless night,negative,negative
 sat ramp min missed connection no one seems concerned usairways,negative,negative
-listening center open seating like plane ragandisney,positive,positive
+listening center open seating like plane ragandisney,positive,negative
 broke stroller wife baby gate checked told 's not problem calling list preferred line,negative,negative
 went check flight hr advance husband seated separately hr flight happen,negative,negative
 guy really bad fail someone better call wife back get handled wait hold,negative,negative
@@ -1869,7 +1869,7 @@ almost gate sf please wait second,negative,negative
 terribly disappointed confirmed reservation delayed cust service staff not helpful finding alternate solution,negative,negative
 late flight lost almost hour bay area weekend not mention two hour unnecessary vacation time work flt,negative,negative
 lost bag process broken agent promised 'd call amp hold bag found 're waking w delivery fail,negative,negative
-getaway deal may one way lot cool city cheapflights farecompare,positive,neutral
+getaway deal may one way lot cool city cheapflights farecompare,positive,positive
 hundred people line less half desk manned clt help,negative,negative
 flight far year delay including cancelled flightations late flightst reason crew needed mandatory sleep mexico,negative,negative
 sort live chat feature 're uk right call would cost u alot,neutral,negative
@@ -1927,16 +1927,16 @@ cost dollar flight cancelled flightled could n't even give food comp fly take,ne
 finally boarded look like 'll make final destination baggage wo n't baggagefail bagsflyfreebutnotwithme,negative,negative
 get help support ticket 's day incident thank,negative,negative
 thanks incurred u approximately dollar fee due staff member screw neveragain,negative,negative
-thanks betty working gate ilm lovely gate agent clt helping get home phx tonight instead tomorrow,positive,negative
+thanks betty working gate ilm lovely gate agent clt helping get home phx tonight instead tomorrow,positive,positive
 got ta worse w time departure rushed back terminal c flight n't strtd boarding,negative,negative
 origin destination date going u airway connecting flight aa direct flight award saver level,neutral,neutral
 suck philadelphia let u plane phl,negative,negative
 admiral club clt rude ignorant front desk staff fallen far thanks doug parker,negative,positive
 told customer service customer relation extend expiration date unused travel fund,negative,negative
-follow experience,negative,negative
+follow experience,negative,positive
 happy note crew wonderful ca n't say enough great thing pilot 's u,positive,positive
 another awesome telephone experience thank cory greatcustomerservice,positive,positive
-lax sunrise ual lax jfk,neutral,negative
+lax sunrise ual lax jfk,neutral,neutral
 held flight group nearly people,negative,negative
 worst airline cancelled flight flight n't even let u know even though traveling child,negative,negative
 c think mile repair damage done interesting travel exp worst flight ever,negative,negative
@@ -1971,12 +1971,12 @@ one obtain companion pas,neutral,neutral
 leave u stranded send baggage important medication different city day amp apologise voucher appalling,negative,negative
 charged one way baggage find others leaving pittsburgh equipment n't charged hung,negative,negative
 sent email customer relation calling tomorrow,neutral,negative
-afterall indeed lovesongfriday cheesy sweresomuchfun brandloveaffair,neutral,positive
+afterall indeed lovesongfriday cheesy sweresomuchfun brandloveaffair,neutral,neutral
 loyal southwest beginning unhappy devaluation,negative,negative
 please moved seat lost upgrade seat l ticket hand l,negative,negative
 think 'll come take nap terminal,negative,negative
 second time row n't received text update flight time change n't offer wo n't use,negative,negative
-thanks overflight booking problem first class automatically downgrading upgrade min boarding ffstatusdontmatter thenewaa,negative,negative
+thanks overflight booking problem first class automatically downgrading upgrade min boarding ffstatusdontmatter thenewaa,negative,positive
 letting u go runway mechanical problem wewantcomps,negative,negative
 fabulous thank much looking forward taking sky,positive,positive
 n't understand need dm give answer damaged luggage policy,negative,negative
@@ -1991,15 +1991,15 @@ flight dallas sfo cancelled flighted ca n't get anything else tomorrow wo n't pu
 list program complete joke company not value loyal customer time look another go airliner,negative,negative
 please start offering service airport drive hr use u,negative,negative
 bring guinea pig small pet carrier onboard flight,positive,negative
-looking help recover item left airplane evening,neutral,negative
+looking help recover item left airplane evening,neutral,neutral
 going make wait phone long time least turn ad eating away soul,negative,negative
 hr since flight landed zero info missing bag rough eta would hugely helpful restore confidence,negative,negative
 nd february row stranded u try return cancun no contact info no way rebook badcustomerservice,negative,negative
 fault flight delayed begin n't check bag 's bunch space,negative,negative
 hey flight iah po leave late flight one back iah early rather get po earlier,negative,negative
-always fly sw loyalrrmember,positive,negative
+always fly sw loyalrrmember,positive,positive
 update flight 's three hour delayed thank,negative,negative
-changing dest city award reservation party fee pax first rest,neutral,neutral
+changing dest city award reservation party fee pax first rest,neutral,negative
 rtw planner spec circle pacific not let even plan demo route website,negative,negative
 like clockwork friday afternoon flight la den running late flight seem happen consistently keepit,negative,negative
 cancelled flight flight ny time make decided amp g 'll cancelled flight return flight thanks,negative,negative
@@ -2025,7 +2025,7 @@ sadly no app also experiencing difficulty flight information board keeping updat
 've hold hour type ridiculous need link chart route time,negative,negative
 uh yeah flight boarded amp hr late flightr still sit update dca,negative,negative
 yes trying upgrade seat no available spot,negative,negative
-saga continues,neutral,negative
+saga continues,neutral,neutral
 incredibly frustrating emailed still n't received response,negative,negative
 news,neutral,neutral
 hi bought flight united ebokeers paris miami chance check everything ok,neutral,neutral
@@ -2038,17 +2038,17 @@ maybe n't play video flight outfitted w wifi flight wifi n't working,negative,ne
 u cancelled flight flight phx bc sdf weather flight ne sdf still going wtf,negative,negative
 non profit arc would love ticket rely airline extraction saving abducted child returning home,neutral,neutral
 needed refund cancelled flightled flight morning hold hour x,negative,negative
-weather sun,negative,negative
+weather sun,negative,neutral
 no guessing call someone,negative,negative
 disgusting chicken entree 've ever seen standard seriously nosedived newamerican,negative,negative
-'d like see markie,neutral,negative
+'d like see markie,neutral,positive
 crew no one helping,negative,negative
 come airline flight last year make check carry not even gate check baggage claim,negative,negative
 today 's flight philadelphia 's little disappointing unnecessary delay 's not even snowing fl,negative,negative
 thanks making new direct flight san francisco,positive,positive
-major issue getting boston crew exceptional let 's see thing roll philly,positive,positive
+major issue getting boston crew exceptional let 's see thing roll philly,positive,negative
 long take get response customer service complaint done email,negative,negative
-yes,negative,negative
+yes,negative,neutral
 follow back dm guy,neutral,neutral
 n't time taking amtrak home call partial refund,negative,negative
 's ok thanks letting know appreciate response,positive,positive
@@ -2056,14 +2056,14 @@ usairways unacceptable holdtime really,negative,negative
 follow order dm come,negative,neutral
 changed flight time trip bumped amp great experience never flying u air never,negative,negative
 fleet 's fleek wtf,neutral,neutral
-make two u lol blushing,positive,negative
+make two u lol blushing,positive,neutral
 thank quick response aa usually fantastic customer service 's shocked n't,positive,positive
 stop ur b promos anywhere starting click everywhere 'd fly place thats cle nothanks,negative,negative
 hire po pilot thanks ruining trip not allowing see buddy turn unitedsucksdick,negative,negative
 tried not helpful really dissatisfied flight booking problem whole trip jet blue time around besides flight,negative,negative
 started flight scolding using overhead bin offered person seated next,negative,negative
 following bad,neutral,negative
-,negative,negative
+,negative,neutral
 's direct flight fll gt sfo unexpected layover vega fuel yet peep next bought vega flight sneaky,negative,neutral
 hour delay nothing say sorry like voucher missing time family family precioustime,negative,negative
 sf crew lack lot customer service lax employee lot better wonder,negative,negative
@@ -2071,7 +2071,7 @@ take lesson wait passenger connecting flight shame,negative,negative
 'm flight booking problem without major problem n't bad,negative,negative
 not cool announce flight delay everyone checking hour delay bdl dca staff offering no help,negative,negative
 way lax nyc area possible,neutral,neutral
-customer service agent bonnie amazing phone deserves promotion,positive,positive
+customer service agent bonnie amazing phone deserves promotion,positive,negative
 yall probably work,neutral,negative
 yet another delay missed connection customer service attitude wow,negative,negative
 no booked seat dallas live dallas real nice gate agent exit row available told n't available,negative,negative
@@ -2113,7 +2113,7 @@ delay flight ua painful sure hope n't cause luggage miss ua flight new delhi,neg
 okay think waited long enough gate dfw,negative,negative
 no gate agent minute let u plane wtw ground crew hope 're ready cover delay,negative,negative
 advised gas pilot flight bad no one took action,negative,negative
-great job communicating passenger flight n't exist anymore,negative,negative
+great job communicating passenger flight n't exist anymore,negative,positive
 not even going acknowledge bumped flight not weather arizona,negative,negative
 really carrier staffed 've got triple looped one no employee sight okc,negative,negative
 gate change two delay even crew think airline suck,negative,negative
@@ -2124,7 +2124,7 @@ need help no one pick phone,negative,negative
 return car clt skip flgjt back tonight gso clt pick clt fll told yes,negative,negative
 wow awesome video guy great work bluemanity corevalues passion aerojobmarket avgeek,positive,positive
 power outlet seat 're gon na keep u siting forever,negative,negative
-,negative,negative
+,negative,neutral
 thank help shannon great customer service,positive,positive
 told deserved delayed booked last flight hear inconvience missing flight,negative,negative
 not lady one phone say tel aviv tel aviv united say newark no one know nothing,negative,negative
@@ -2152,7 +2152,7 @@ carrier flying way past sw cancelled flightlation got passenger much late flight
 hold min no estimated answer time help,negative,negative
 disappointed handling tonight 's cancelled flighted dallas flight not cancelled flighted no contingency,negative,negative
 oh get better apparently making u wait gate psych need de ice coming gate,negative,negative
-played bizarre safety video 've ever seen,neutral,positive
+played bizarre safety video 've ever seen,neutral,negative
 maybe pre purchase meal email flight min short hour guess none offered,negative,negative
 's absolutely horrible customer service person supposed call ca n't immediately call back disconnected,negative,negative
 need get albuquerque nm usa cebu philippine 'm providing educational help kid help,neutral,neutral
@@ -2169,11 +2169,11 @@ not good day fly u two delayed flight still plane ewr waiting hour gate get gate
 first call got dropped waited min second ran time try late flightr no way online,negative,negative
 landing usual great flight wiyh great crew hello sunny west palm beach jetbluerocks,positive,positive
 stewardess really funny could get gent next use headphone would perfect flight,positive,negative
-flight birmingham tomorrow night reschedule earlier flight expected snow,neutral,negative
+flight birmingham tomorrow night reschedule earlier flight expected snow,neutral,neutral
 received hotel no food also email mile last trip hr delay mile less cancelled flightlation,negative,negative
 guy another flight today book laguardia louisville ky,neutral,negative
 record locator,neutral,neutral
-going flying nashville deicer short plane tomorrow morning,neutral,negative
+going flying nashville deicer short plane tomorrow morning,neutral,neutral
 redeemed flight call negotiate thank lord 'm heading home,negative,positive
 flight lie flat seating stl pdx around date march,neutral,neutral
 blown away stellar custserv thank lt,positive,positive
@@ -2181,7 +2181,7 @@ not way impatience part 's untruthful not proper system place,negative,negative
 seriously flight cancelled flighted auto rebooked tuesday hr min hold nothing renting car want refund,negative,negative
 hold hour please help,negative,negative
 want fly storm 's right give u choice kid n't want chance nixchangefees,negative,negative
-lmfao love,positive,neutral
+lmfao love,positive,positive
 always fun get screwed earlier flight n't full crummyservice whydidntiflysouthwest goodluckamericanair,negative,negative
 duh baggage claim hour counting flight amp,negative,negative
 hard tell told wifi worked one side plane,negative,negative
@@ -2194,12 +2194,12 @@ pls help baby hannah get life saving surgery requires need help pls donate rt,ne
 coming hr gate not leaving without baggage swa nightmare,negative,negative
 look flying rock time 's bird 's plane nah never mind 's rock,positive,positive
 gladly take loyal customer 's money cause inconvenience nothing help fix problem caused,negative,negative
-flight jfk tpa saturday one way ticket,neutral,negative
-n't worry took good care loss gain,negative,positive
+flight jfk tpa saturday one way ticket,neutral,neutral
+n't worry took good care loss gain,negative,negative
 share value common,positive,neutral
 tomorrow 's flight cancelled flightlations dfw aa flight posted lax,negative,negative
 stop please rt fleet 's fleek,positive,neutral
-challenge accepted first crew member send pic chair get free ticket visit u wager isitsummeryet,neutral,positive
+challenge accepted first crew member send pic chair get free ticket visit u wager isitsummeryet,neutral,negative
 stop cutting pasting apology get additional phone rep job,negative,negative
 guy flight cmh,neutral,negative
 thnkx bt dont help need go way way get need u charge sux neveragain,negative,negative
@@ -2211,7 +2211,7 @@ late flight several passenger inebriated 're league big alcohol shame,negative,n
 heck bag chicago hour,negative,negative
 flight cancelled flightled rebooked pm flight time take 'll spent extra hour dca,negative,negative
 hour already,negative,negative
-earlier flight sap gt mia amp mia gt new york lga 'm currently booked flight,neutral,negative
+earlier flight sap gt mia amp mia gt new york lga 'm currently booked flight,neutral,neutral
 okay thanks help jt appreciate time,positive,positive
 flt en route dca bwi diverting rdu phone service suck website conflicting,negative,negative
 n't miss flight american airline gave ticket well passenger ticket away not fault,negative,negative
@@ -2222,16 +2222,16 @@ admit 've rather good year 've still got hooked peace,positive,negative
 horrible customer service flying miami philadelphia sent charlotte ca n't get charlotte,negative,negative
 ca n't believe many paying customer left high dry no reason flight cancelled flightlations monday bdl wow,negative,negative
 yes 's issue site well unfortunately,negative,negative
-always happens guy make traveling incredibly stressful uncomfortable good business,negative,positive
+always happens guy make traveling incredibly stressful uncomfortable good business,negative,negative
 seems unlikely without crew board u,negative,negative
 guy alive 've hold minute counting,negative,negative
 wife sick yr old twin waiting line hr see agent phone agent said nothing til tuesday,negative,negative
-seen message today mcdonnell douglas dc model hear read goodnight,neutral,neutral
+seen message today mcdonnell douglas dc model hear read goodnight,neutral,negative
 've spoken emailed jb team explained situation didnt seem matter anyone guess expected,negative,negative
 already done answer got oops give mile 're sorry pay discomfort h,negative,negative
 flew chi instead got ride mke u said bag would go mke today cancelled flightled flight tho,negative,negative
 hey friend stupid question split payment method flight purchase example debit card billmelate flightr thanks,neutral,neutral
-updated power outlet seat back tv yet flying ord tokyo narita th,neutral,neutral
+updated power outlet seat back tv yet flying ord tokyo narita th,neutral,negative
 looking forward first flight today cancelled flightled along subsequent one,negative,negative
 airport snow removal method keep good work folk cessna 's become 's,positive,positive
 not receive drink coupon point friend,negative,negative
@@ -2241,8 +2241,8 @@ update gate got moved complete opposite end terminal airline disaster,negative,n
 delayed cmh ord ran gate min b connection door closed no one around ignored st agent nd super rude thanksunited,negative,negative
 thank,positive,positive
 forgot tell flight coming thanks allowing miss connection,negative,negative
-mellani b whole team columbia sc absolute superstar incredibly helpful,positive,positive
-ca n't wait hear back regarding internship opportunity,positive,negative
+mellani b whole team columbia sc absolute superstar incredibly helpful,positive,negative
+ca n't wait hear back regarding internship opportunity,positive,positive
 making miss big snow montana not cool,negative,negative
 no worry got thru eventually curious best luck dealing weather,positive,positive
 flight cancelled flightled yall im sick,negative,negative
@@ -2263,7 +2263,7 @@ started trying reach real person hour ago still no luck,negative,negative
 cancelled flight flt ewr no crew tell wife amp yr old get ny catch yyz good customerservice dead,negative,negative
 've never treated badly,negative,negative
 say dumb thing beat around bush 're flight cancelled flightled prepared no compassion,negative,negative
-well 's la hr car ride dark palm spring technically maybe 'll get bumped st class den phl friday,neutral,neutral
+well 's la hr car ride dark palm spring technically maybe 'll get bumped st class den phl friday,neutral,negative
 spend hour worrying item carryon would broken stolen since could n't carry plane lock bag,negative,negative
 email call past month flight change helpful wish would sent cancelled flightlation yesterday,negative,negative
 another great flight amp crew la vega chicago thanks,positive,positive
@@ -2273,13 +2273,13 @@ no wheelchair,negative,negative
 fucked voided ticket kept money not even apology never fly airline unitedairlines,negative,negative
 boarding decent useless agent n't speak english hr hold hr mech delay not much,negative,negative
 get tiks destinationdragons omg id love plz im dying,positive,neutral
-airfare available december year major trip coming 'm anxious book,negative,neutral
+airfare available december year major trip coming 'm anxious book,negative,negative
 dmed thank,negative,positive
 could n't get first class flight rebooked,negative,negative
 worst pay not take first flight round trip otherwise 'll cancelled flight whole flight,negative,negative
 member since looking travel next week could n't book right away due snow 'm bos,negative,negative
 block bike rt fleet 's fleek,neutral,neutral
-michelle ord train staff treat customer refreshing pleasure deal,positive,positive
+michelle ord train staff treat customer refreshing pleasure deal,positive,negative
 u paying incedentals noworstairline,neutral,negative
 time change guess,neutral,negative
 spent choppiest feed whiplash ever americanairlinesfail iwantmymoneyback,negative,negative
@@ -2326,7 +2326,7 @@ found flight want aa advantage applicable earn mile since 're merging,neutral,ne
 tv wifi spotty 's nice feature x country flight still wo n't keep u away lovejetblue,negative,negative
 really hoping get help th attempt get resolution lost count transfer help please mileageplus,negative,negative
 set figured baggage office,neutral,negative
-rcvd promo booked flight silver status would extended not dont flier sent didnt think id need,neutral,neutral
+rcvd promo booked flight silver status would extended not dont flier sent didnt think id need,neutral,negative
 min,neutral,negative
 good know three set traveler min standing waiting min pas,negative,negative
 stranding student trying get birmingham clt overnight w help better,negative,negative
@@ -2366,7 +2366,7 @@ already pleasant flight london charlotte u made fantastic amazing attendant than
 spoke soon bag lost,negative,negative
 nd person called ask could not catch name rejected request,negative,negative
 people stranded cause suck better yet weasel flight booking problem room people claiming weather,negative,negative
-flight,neutral,negative
+flight,neutral,neutral
 help flight dallas cancelled flightled morning cle hold hour need booked next flight,negative,negative
 way assist actually answer phone,negative,negative
 've ton problem getting bag given run around day whats,negative,negative
@@ -2379,21 +2379,21 @@ get shit together owe bag,negative,negative
 no not yet notify 'm new,neutral,negative
 'll cancelled flight flight like,negative,negative
 thanks response able get situation resolved not fan mother nature today,positive,positive
-thanks information,positive,negative
+thanks information,positive,positive
 thank offer sorted,positive,positive
 ca n't even accommodate u letting u fly another airport horrible service fault,neutral,negative
-getaway deal may one way lot cool city cheapflights farecompare,neutral,neutral
+getaway deal may one way lot cool city cheapflights farecompare,neutral,positive
 keep tweeting ceo answer personally apologizes wife passenger flight wrong,negative,negative
 dirty damn plane take hour get plane cleaned refund mile wasteoftime theworst,negative,negative
 wow minute hold far phone dying,negative,negative
 would fly somewhere hotter puerto rico come lol,neutral,neutral
-really good deferring responsibility,negative,negative
+really good deferring responsibility,negative,positive
 exceptional customer service aa misplaced item waiting checkin followed smooth flight thank,positive,positive
 u want helpful save trip westchester cty jfk plus parking info photo,negative,neutral
 not yet supposed get early evening tonight n't want go store buy new necessity,negative,negative
 trip cut hr short due flight change massive layover no peanut cracker asked h received oz,negative,negative
 's response shaking head back forth tsk better customer service apology,negative,negative
-overzealous stewardess prevented u bringing car seat worstflight,negative,neutral
+overzealous stewardess prevented u bringing car seat worstflight,negative,negative
 n't de ice plane sits no one hour could delay,negative,negative
 please send link email formally compliment irene slc best customer service ever paxex,positive,negative
 trying fly bos jfk flight delayed traveling kid book hotel getting tonight,negative,negative
@@ -2401,23 +2401,23 @@ website btw new website n't great user experience time another redesign,negative
 another great trip lax la bna thanks much,positive,positive
 whats going flight delayed beyond shouldnt thre flight switch point,negative,negative
 wonder 's pilot tweeting back legal tweet fly plane front stop suddenly,negative,negative
-problem link email check thanks,negative,negative
-thanx replying dm sent,positive,positive
+problem link email check thanks,negative,neutral
+thanx replying dm sent,positive,neutral
 new marketing song let u know think,neutral,neutral
 two hour late flightr still waiting callback need reschedule flight hopefully late flightr one tomo not cancelled flighted,negative,negative
 thought nothing happened,negative,negative
-thanks delivery status,positive,negative
+thanks delivery status,positive,positive
 awesome thank,positive,positive
 really not guidance call via phone back logged could done online minute,negative,negative
 please come minneapolis st paul,neutral,neutral
 spent room amp transportation whole flight,negative,negative
 whole plane hoping better luck return flight sunday,negative,negative
 plane coming delayed almost hour no plane,negative,negative
-,neutral,negative
+,neutral,neutral
 transferred x pleeeeeeeease help,negative,negative
 no not yet waiting connected agent,negative,negative
 supposed get fresno pittsburgh pm instead 'm not getting pm tomorrow,negative,negative
-thankyou,positive,positive
+thankyou,positive,neutral
 took carryon bag essential attire life changing interview tomorrow amp 's not expect compensation,negative,negative
 not even open laptop seat c paid premium let,negative,negative
 ok thanks sent dm disregard,positive,positive
@@ -2426,11 +2426,11 @@ thx quick response action bf make good use voucher satisfied happycustomer,posit
 since ua ord ewr delayed pushing meal time mean catered meal first,neutral,negative
 thank much stepping game making day night elevator music much appreciated,positive,positive
 status flight stl au,neutral,neutral
-versus customer service win convenience trip cali lt,positive,positive
+versus customer service win convenience trip cali lt,positive,negative
 airline hr minonhold,negative,negative
 packed carry reason thanks making check hoped better customer service cle also nothappy,negative,negative
 kid day n't work 's month advance,neutral,negative
-far good,positive,negative
+far good,positive,positive
 hour hold time moment counting disgrace,negative,negative
 sorry hate united wo n't get see family thursday,negative,negative
 debbie baldwin gave rockstar performance safety demo evening vx la sfo bestcrew sherocks,neutral,positive
@@ -2445,12 +2445,12 @@ ifthe sneverstopped 'd still rocking chart topping hit 's,neutral,negative
 shocker flight delayed hour thanks reminding switched delta,negative,negative
 delayed way puerto rico delayed way back new york disgraceful,negative,negative
 flight leaving dc today flight cancelled flightled hold hour,negative,negative
-thank ca n't wait either,positive,negative
+thank ca n't wait either,positive,positive
 really hr delay virgin island not even food voucher,negative,negative
 not mention three hour wait get agent phone,negative,negative
 'm flight dia ontario tomorrow morning no access airport via taxi shuttle,neutral,neutral
 done thanks,positive,positive
-,negative,negative
+,negative,neutral
 thanks timely update,positive,positive
 unacceptable knew pilot would n't able complete trip wasted time,negative,negative
 app website trash af,negative,negative
@@ -2469,8 +2469,8 @@ agent werenot helpful told would pay chng even though tld going bwi whch part tr
 due apparent water issue checked fine check husband already deal first,negative,negative
 flight listed time 'm not plane yet,negative,negative
 call chairman call emerald today call former customer,negative,negative
-no jetblue no fleet 's fleek,negative,neutral
-definately not award employer year united,neutral,neutral
+no jetblue no fleet 's fleek,negative,negative
+definately not award employer year united,neutral,negative
 'm stuck fort lauderdale,negative,negative
 flight msp hrl march 'm looking,neutral,neutral
 hate internet lol,neutral,negative
@@ -2497,7 +2497,7 @@ changing rno den non stop may late flight morning early afternoon,neutral,negati
 let u board fly time know shouldhaveflowndelta,negative,negative
 's not tried 's already cancun no one delivered,negative,negative
 loyal list customer easier get help bring resolution issue reward program,negative,negative
-hey guy want say best flight ever thank much fell asleep actually wet dream,positive,negative
+hey guy want say best flight ever thank much fell asleep actually wet dream,positive,positive
 please stop spending mktg branding ad use saving improve cxp hr wait luggage due short staff unacceptable,negative,negative
 going get wifi plane,neutral,negative
 since high likelihood snow time flight tomorrow chance rebook sunday,neutral,negative
@@ -2512,10 +2512,10 @@ left personal stuff u phl bos hour ago went baggage told plane left call,neutral
 merging aa dividendmiles yield error exact step navigate phone menu get computer,negative,negative
 cancelled flightled flight asshole phone support worstairline,negative,negative
 even still business trying call hour pathetic,negative,negative
-thank busy time,positive,negative
+thank busy time,positive,positive
 thanks formed submitted 'm not betting someone would honest enough turn though,negative,negative
-good fly united businessfirst,positive,positive
-thanks showing interest greenville sc,negative,positive
+good fly united businessfirst,positive,negative
+thanks showing interest greenville sc,negative,neutral
 partner booked individual reservation flight pr silver share premier privilege somehow,neutral,negative
 checking flight website easy asking bear shit toilet justsaying,neutral,negative
 fl cancelled flightled dallas austin no one answering need help,negative,negative
@@ -2548,7 +2548,7 @@ keeping aa air crew chief cousin alex espinosa dfw,positive,negative
 hi 'm trying check website not working tried different browser problem continues,negative,negative
 going giving travel agent rate hold iata card,neutral,negative
 update emergency landing jacksonville right parentsonboard,neutral,neutral
-thanks still booked trip lb slc see grand kid frustrating tried app web etc still love u guy,positive,negative
+thanks still booked trip lb slc see grand kid frustrating tried app web etc still love u guy,positive,positive
 n't really care comfort care profitability 's fine unfriendlyskies,negative,negative
 no expect higher level customer service amp flight crew give u accurate information,negative,negative
 hr flight delay delay land even real life get plane wan na go home heel click,negative,negative
@@ -2564,7 +2564,7 @@ flight n sw departs enroute indianapolis international airport,neutral,neutral
 intend much follower well,neutral,positive
 gave smile today zero award computer sense humour,positive,negative
 somehow think 'm going stuck paying hotel room denver without winter clothes dime guess 'll see,negative,negative
-met customer service arrival flight ua pvd iad thanks guy really handled storm,positive,positive
+met customer service arrival flight ua pvd iad thanks guy really handled storm,positive,negative
 told no gate open ord needed wait min still waiting min,negative,negative
 plane moving 's no ice moving end runway sit lga one runway open,negative,negative
 fine would call left message told would hour call n't heard anything yet,negative,negative
@@ -2572,7 +2572,7 @@ refund system,neutral,negative
 point offering flight next day expect pay hotel cancelled flightled,negative,negative
 've misunderstood would not day flight change gate agent said no,negative,negative
 link site display delay cancelled flightations flight,neutral,negative
-classic,negative,positive
+classic,negative,neutral
 worked ty,positive,positive
 inflight entertainment tonight willie nelson impersonator sang passenger peanutsandtoons,neutral,negative
 hey 's guess 'm not sleeping cause care little customer let sleep airport,negative,negative
@@ -2585,11 +2585,11 @@ told case week still not resolved,negative,negative
 flight ord delayed air force one last flight sbn min landed,negative,negative
 phone rep none could see rebooked missed flight told go standby nonexistent late flightr flight hurt,negative,negative
 staff refuse let earlier flight citing checked bag,negative,negative
-problem link thparty,negative,neutral
-please bring back rdu fll direct route noticed missing starting late flight august flight always packed,neutral,neutral
+problem link thparty,negative,negative
+please bring back rdu fll direct route noticed missing starting late flight august flight always packed,neutral,negative
 f amp king joke customer service woeful staff tell passenger something,negative,negative
 come back phl already need take u horrible cold pleasecomeback,positive,negative
-n't conference number spoke courtney texas david finally fixed mine hour,negative,positive
+n't conference number spoke courtney texas david finally fixed mine hour,negative,negative
 tweet not call 're like bad boyfriend,negative,negative
 awesome rt watch nominated film foot meetthefleet oscar,positive,neutral
 flight tomorrow slc dfw aa cancelled flighted help get,negative,negative
@@ -2599,11 +2599,11 @@ flight charleston tomorrow time possibility delay cancelled flightlations,neutra
 need hire people,negative,negative
 n't realize bag content wet got hotel sent suit shirt dry cleaned mtgs start tomorrow,negative,negative
 airline claim low fare guarantee wo n't honor lower fare found,negative,negative
-'s something,neutral,negative
+'s something,neutral,neutral
 access website safari iphone seems work mac ipad need iphone add passbook,negative,neutral
 even went ticket counter got no help,negative,negative
 cough awkward,negative,negative
-'re still best,positive,negative
+'re still best,positive,positive
 website wo n't allow post required document keep getting technical difficulty,negative,negative
 sign trueblue twice happens everyone around,negative,negative
 hold minute amp no one know win ticket 're still handing destinationdragons,negative,negative
@@ -2615,17 +2615,17 @@ absolutely required flight going cancelled flighted,neutral,negative
 thanks,positive,positive
 get companion pas,neutral,neutral
 found tix security code not working tried dozen time,negative,negative
-boom,neutral,negative
-nice try n't apply philly,neutral,negative
+boom,neutral,neutral
+nice try n't apply philly,neutral,neutral
 worstcustservice contingency plan extra worker bad weather hour hold ridiculous,negative,negative
 flight changed u airway ca n't get two seat together help,neutral,negative
 another generic response guy cmon 're terrible actual helpful person not rude employee lax,negative,negative
-let hope stay way big thanks ground outside crew across u last month great fb post yesterday,positive,negative
-thanks info figured case hopefully new hashtag change abcletjetbluestreamfeed,positive,neutral
+let hope stay way big thanks ground outside crew across u last month great fb post yesterday,positive,positive
+thanks info figured case hopefully new hashtag change abcletjetbluestreamfeed,positive,positive
 customer service call refunded money,negative,negative
 discovered flight cancelled flightled yesterday pm finally notified u flight cancelled flighted,negative,negative
 except delayed flight anyway,negative,negative
-lauren im screaming,positive,positive
+lauren im screaming,positive,neutral
 horrible travel day w airline flight birmingham cancelled flightled w no notification could n't get,negative,negative
 frequent user congrats u lost bag year problem today staff rude still no bag,negative,negative
 ca n't tell purchase website put u lufthansa flight first leg,negative,negative
@@ -2645,7 +2645,7 @@ condescension must quality co reward tone reek,negative,negative
 still posted downtown waiting y'all way,neutral,negative
 use next airline commercial lol,neutral,positive
 worst trip ever wish pilot would 've let plane pm st delay pm still sitting runway,negative,negative
-good perspective safety concern expressed point arrived airport communicationiskey,negative,negative
+good perspective safety concern expressed point arrived airport communicationiskey,negative,neutral
 sure flight not cancelled flighted trying make plan stl,neutral,negative
 spent hour morning hold w customer support want confirmed flight taken care,negative,negative
 dm take offline would love info location lost bag help appreciated,negative,negative
@@ -2658,23 +2658,23 @@ no rt fleet 's fleek,neutral,neutral
 fuck,negative,negative
 u airway since back forth gatwick charlotte lhr bit sad nostalgic way,neutral,negative
 thanks guy best,positive,positive
-need flight tonight n't anything else,negative,negative
+need flight tonight n't anything else,negative,neutral
 happening reagan airport dca long line four people working checkin unhappy dca,negative,negative
 deplaned o'hare gate k n't send customer service rep discus situation god know,negative,negative
 no problem follow back thank,positive,positive
 thx pointer im good big monitor advice pick come western conf nba,neutral,positive
 travel bank credit go ca n't call right,negative,negative
-please tell dfw weather advisory rdu not entire state nc shut ice amp snow,neutral,negative
+please tell dfw weather advisory rdu not entire state nc shut ice amp snow,neutral,neutral
 yes destinationdragons san diego,neutral,neutral
 trying book award travel leaving red eye sunday night midnight book date sunday monday,neutral,neutral
 n't respond dm tweeted canned tweet 're telling everyone else,negative,negative
 airway short interest january jblu sleekmoney,neutral,neutral
 sponsor oscar no wonder half hour delayed oscar,negative,negative
 morning question regarding elevate point amp flight dm,neutral,neutral
-k problem getting fll iah sent dm making connection please let know,negative,negative
+k problem getting fll iah sent dm making connection please let know,negative,neutral
 get answer question holding hour x getting message said n't taking call,negative,negative
 ca n't control weather control system process people attitude anotherfail,negative,negative
-'s first class cockup,negative,negative
+'s first class cockup,negative,neutral
 delay cancelled flightlations double layover hour late flightr could least get extra dividend mile,negative,negative
 customer service hr delay coupon redeemed website higher price expedia call wait time min,negative,negative
 rd cancelled flightlation day due weather nashville trip airport time communicated late flight sw,negative,negative
@@ -2687,19 +2687,19 @@ frequent traveler 've never treated coldly amp airline offer nothing flight canc
 thanks submitted damaged bag complaint online anything else goodcustomerservice,negative,negative
 failed 's answer please n't justify otherwise,negative,negative
 's pretty hilarious want finish awful experience something make right,negative,negative
-'s quite impressive list fee,negative,neutral
+'s quite impressive list fee,negative,negative
 flying non stop cmh oak daydreaming trip bay especially weather ohioprobz,positive,negative
 ah yes put bag floor instead overhead bin no one trip safetyfirst sarcasm,negative,negative
 great thank,positive,positive
 well 'm flying instead free credit actually work,neutral,negative
 delay know get n't credit anybody back supervisor cut speaking,negative,negative
-got able switch flight no charge thank,positive,negative
+got able switch flight no charge thank,positive,positive
 hahahaha crazy well 's another night airport,negative,negative
 perfect probably need coffee stay awake night,positive,negative
 ua sitting tarmac ord visibly gate open reassign gate,negative,negative
 u suck sitting hr ur negligence,negative,negative
 delayed blue sky whyisusairalwaysdelayed,negative,negative
-app reminded flying fll week chillycvz thankgoodness family friend sunshine,positive,neutral
+app reminded flying fll week chillycvz thankgoodness family friend sunshine,positive,negative
 flight jacksonville fl dallas showing cancelled flightled going rebooked another flight,negative,negative
 trying week no use,negative,negative
 woke notification flight moved hr early barely made flight hr layover sfo wanted hop earlier option,negative,negative
@@ -2748,31 +2748,31 @@ lack customer centricity u astounding,negative,negative
 no hold hour diff agent w different information frustrating kept getting txfd,negative,negative
 last time use airline promise,negative,negative
 kept watching safety video first time forever nice job,positive,positive
-site tripping 'm trying check 'm getting plain text version reluctant enter card info,negative,neutral
+site tripping 'm trying check 'm getting plain text version reluctant enter card info,negative,negative
 hold four hour never got connected came airport rep essentially told everyone else screw,negative,negative
 vx jfk la dirty plane not standard,negative,negative
 oh yeah great flight mexico wonderful crew thank,positive,positive
-thank goodness also see friday nwk gt sf boom,positive,positive
+thank goodness also see friday nwk gt sf boom,positive,neutral
 get bangkok day spend husband mid deployment leave like get asap,neutral,negative
 's still valid flight seems strange delay late flight inbound crew hour plane already,negative,negative
-y'all develop ding chrome firefox browser extension would swell,neutral,neutral
+y'all develop ding chrome firefox browser extension would swell,neutral,negative
 trouble reflight booking problem cancelled flighted flight no one picking phone site n't working,negative,negative
 tried day disconnected due heavy call volume,negative,negative
 watched entire uncvsduke game tarmac cancelled flighting flight crew timed right hr flight,negative,negative
 understand weather not fault frequent flyer expected better customer service 'll trying,negative,negative
 bwi sjd service seasonal n't part extension called intl desk n't know want fly sept sat,negative,negative
 thank reply frustration spending upgrade put wait list,negative,negative
-future better harsh weather preparedness plan much staff called everything snowballed,negative,negative
+future better harsh weather preparedness plan much staff called everything snowballed,negative,positive
 well really n't like would airplane fiousairways,negative,negative
 best plane business not aa today,negative,negative
 discount volunteer firefighter,neutral,neutral
 hold hour waiting speak someone cancelled flightled flight philly orl,negative,negative
 please help really want fly guessweflyingdelta,positive,negative
-even international flight glasgow u orlando newark min,neutral,negative
+even international flight glasgow u orlando newark min,neutral,neutral
 hence 've asking customer service phone number speak real person get sorted,negative,negative
 took one not window also not fun get motion sick,negative,negative
 itinerary ewr dallas la cancelled flightled flight money find way get ewr,negative,negative
-yea saw 'm moving china bag pay whatever wanted make sure ok bring many,neutral,neutral
+yea saw 'm moving china bag pay whatever wanted make sure ok bring many,neutral,negative
 ft tus dfw w cx lga tomorrow cancelled flighted hr far waiting call back need get nyc,negative,negative
 receipt upgraded return leg month late flightr still no receipt,negative,negative
 flight got cancelled flightled hr takeoff no customer service hold minute,negative,negative
@@ -2791,13 +2791,13 @@ cancelled flightled flight rescheduled ewk gave pseudo voucher directed worst ex
 need retrain flight attendant saying no room carry ons actually not cool,negative,negative
 turkish airline rebooked u united flight second leg fra gt iad way check upgrade available,neutral,neutral
 need talk person bag waiting hold two hour bag b delivered last night online say not found,negative,negative
-sent couple message email provided no avail try next year cheer,negative,negative
+sent couple message email provided no avail try next year cheer,negative,neutral
 check tomorrow morning flight wen automatically add passbook,neutral,neutral
-'s many choice y'all south border know not every airline equal lowest price best value,positive,neutral
+'s many choice y'all south border know not every airline equal lowest price best value,positive,negative
 struggling hold minute kicked back start said couldnt handle amount call,negative,negative
-flight,neutral,negative
+flight,neutral,neutral
 u say safety highest priority n't extend property totally nut,negative,negative
-look rdu airport please think safety passenger cant get rdu safely,negative,neutral
+look rdu airport please think safety passenger cant get rdu safely,negative,negative
 thank,positive,positive
 obviously no one know darn thing around not get resolved,negative,negative
 crew notified passenger moved water not fixed tarmac two hour,negative,negative
@@ -2808,7 +2808,7 @@ take jetblue travel go maimi next year guy dont go maimi dont guy go maimi,negat
 also not food available even purchase quite shocking since hour international flight,negative,negative
 think problem resolution decided end especially 'd like continue flying airline,negative,negative
 going anything help stranded traveler flight no communication anyone u dumped,negative,negative
-oh seem reappeared lol,neutral,negative
+oh seem reappeared lol,neutral,neutral
 gate change minute flight roanoke flight sou fall o'hare painful,negative,negative
 thanks quick reply travel lot not much lol,positive,positive
 worst airline world,negative,negative
@@ -2824,7 +2824,7 @@ help girlfriend amy lloyd going miss flt zurich bc fault need golf cart meet ord
 guy rock,positive,positive
 missed goal inept male stewardess landed already havent taken yet,negative,negative
 moodlighting way fly best experience ever cool calming moodlitmonday,positive,positive
-love imagine dragon much eould die got ticket,positive,neutral
+love imagine dragon much eould die got ticket,positive,positive
 rock open letter flight attendant lt child inspired thank,positive,positive
 understand everyone said different thing flight late flightr night one u got take,negative,negative
 first cockroach crawling counter gate visible mouse trap seat gate,negative,negative
@@ -2896,12 +2896,12 @@ said way get plane leave would make connection fee instead earlier late flightr,
 hello flight taking airport noon supposed travel flight san antonio,neutral,negative
 fix engine flight aa n't spend night airport fly home tomorrow,negative,negative
 thank processing refund,positive,positive
-wife amp infant daughter aa abi dfw en route delayed hold aa rdu connect,negative,neutral
+wife amp infant daughter aa abi dfw en route delayed hold aa rdu connect,negative,negative
 wait booked along hotel nearby sent anyway hotel manager disbelief,negative,negative
 kurt crew ua amazing today made son 's birthday kindness hope fly soon,positive,positive
 rebook line keep telling 's reserv number past date morning holding hr,negative,negative
-watched crew flight help elderly lady plane firstclass,positive,positive
-thanks much making night not wait trip next week,positive,negative
+watched crew flight help elderly lady plane firstclass,positive,negative
+thanks much making night not wait trip next week,positive,positive
 wont transfer flight ticket accompany yr old 's active military mom emergency brain surgery wow,negative,neutral
 ta site thelodge fun day,positive,negative
 stop picking u cle,negative,negative
@@ -2909,7 +2909,7 @@ lhr arrival lounge fail waited min shower left find hotel u know many passenger 
 worst customer experience houston intl airport ground support even member nightmare,negative,negative
 ca n't control weather control customer service without luggage hour amp still yet speak human,negative,negative
 passenger hour delayed flight left no hotel end night hou airport wtf,negative,negative
-thanks got put flight tomorrow n't much faith 'll get ground tomorrow though,positive,negative
+thanks got put flight tomorrow n't much faith 'll get ground tomorrow though,positive,positive
 look like form photo something burst luggage correct jh always blame customer,negative,negative
 yes get disconnected due lack wifi strength reached help david,negative,negative
 not get semantics mean within extent period still technically dictionary,negative,negative
@@ -2917,7 +2917,7 @@ getting ridiculous 're missing connection,negative,negative
 really no flight bay area chicago anymore lame lame,negative,negative
 no cancelled flightn left u fend flt came late flight getting runaround hr employee blaming previous,negative,negative
 well paid ticket no assigned seat essentially wo n't flight unless pay,negative,negative
-thanks gate agent state college pa able get earlier flight figure earlier connection,positive,negative
+thanks gate agent state college pa able get earlier flight figure earlier connection,positive,positive
 please something boarding dca x many delay bus plane tarmac despite empty gate disorganized mess,negative,negative
 scheduled flight no crew competent person working airline,negative,negative
 want speak human not obscene request,negative,negative
