@@ -7,6 +7,8 @@ from sklearn.metrics import confusion_matrix
 # read the predictions from CSV files
 nltk_df = pd.read_csv("nltk_predictions.csv")
 sklearn_df = pd.read_csv("sklearn_predictions.csv")
+tf_df = pd.read_csv("tf_predictions.csv")
+bert_df = pd.read_csv("bert_predictions.csv")
 
 # calculate accuracy for both models
 nltk_accuracy = (
@@ -15,9 +17,18 @@ nltk_accuracy = (
 sklearn_accuracy = (
     sklearn_df["airline_sentiment"] == sklearn_df["predicted_sentiment"]
 ).mean()
+tf_accuracy = (
+    tf_df["airline_sentiment"] == tf_df["predicted_sentiment"]
+).mean()
+bert_accuracy = (
+    bert_df["airline_sentiment"] == bert_df["predicted_sentiment"]
+).mean()
 
+# print the accuracy results
 print(f"NLTK Model Accuracy: {nltk_accuracy:.4f}")
 print(f"Scikit-Learn TF-IDF Model Accuracy: {sklearn_accuracy:.4f}")
+print(f"Tf Model Accuracy: {tf_accuracy:.4f}")
+print(f"Bert Model Accuracy: {bert_accuracy:.4f}")
 
 
 # ===============================
@@ -78,7 +89,7 @@ plot_confusion_matrix(
     "NLTK (CountVectorizer)",
     nltk_accuracy,
     cmap_style="Blues",
-    save_path="nltk.png",
+    save_path="nltk_matrix.png",
 )
 
 # plot and save Scikit-Learn model confusion matrix
@@ -88,7 +99,27 @@ plot_confusion_matrix(
     "Scikit-Learn (TF-IDF)",
     sklearn_accuracy,
     cmap_style="Greens",
-    save_path="sklearn.png",
+    save_path="sklearn_matrix.png",
+)
+
+# plot and save Tf model confusion matrices
+plot_confusion_matrix(
+    tf_df["airline_sentiment"],
+    tf_df["predicted_sentiment"],
+    "Tf Model",
+    tf_accuracy,
+    cmap_style="Oranges",
+    save_path="tf_matrix.png",
+)
+
+# plot and save Bert model confusion matrices
+plot_confusion_matrix(
+    bert_df["airline_sentiment"],
+    bert_df["predicted_sentiment"],
+    "Bert Model",
+    bert_accuracy,
+    cmap_style="Purples",
+    save_path="bert_matrix.png",
 )
 
 
