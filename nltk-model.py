@@ -14,7 +14,7 @@ nltk.download("stopwords")
 
 # Load the dataset
 csv_file = "Tweets.csv"
-df = pd.read_csv(csv_file)
+df = pd.read_csv(csv_file).head(5000)
 
 # Select relevant columns
 df = df[
@@ -90,8 +90,8 @@ print(classification_report(y_test, y_pred_nltk))
 nltk_output_df = pd.DataFrame(
     {
         "text": X_test.values,
-        "true_label": y_test.values,
-        "predicted_label": y_pred_nltk,
+        "airline_sentiment": y_test.values,
+        "predicted_sentiment": y_pred_nltk,
     }
 )
 nltk_output_df.to_csv("nltk_predictions.csv", index=False)
@@ -113,8 +113,8 @@ print(classification_report(y_test, y_pred_sklearn))
 sklearn_output_df = pd.DataFrame(
     {
         "text": X_test.values,
-        "true_label": y_test.values,
-        "predicted_label": y_pred_sklearn,
+        "airline_sentiment": y_test.values,
+        "predicted_sentiment": y_pred_sklearn,
     }
 )
 sklearn_output_df.to_csv("sklearn_predictions.csv", index=False)
