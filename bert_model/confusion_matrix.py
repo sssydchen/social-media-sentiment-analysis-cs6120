@@ -14,7 +14,7 @@ from sklearn.metrics import confusion_matrix
 #      • bert_pred (model prediction)
 # ----------------------------------------------------------------
 FILES = {
-    "BERT-1000data": "bert_1000data.csv",
+    "BERT-alldata": "bert_alldata.csv",
 }
 
 # ----------------------------------------------------------------
