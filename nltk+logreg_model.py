@@ -1,8 +1,7 @@
 import pandas as pd
-import numpy as np
 import re
 import nltk
-from nltk.corpus import stopwords, wordnet
+from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -24,22 +23,29 @@ df = df[["tweet_id", "airline_sentiment", "text"]]
 
 
 # Preprocessing function
+STOP_WORDS = set(stopwords.words("english"))
+NEGATION_WORDS = {
+    "no",
+    "not",
+    "nor",
+    "cannot",
+    "can't",
+    "won't",
+    "n't",
+    "never",
+}
+CUSTOM_STOPWORDS = STOP_WORDS - NEGATION_WORDS
+
+
 def preprocess_text(text):
     text = text.lower()
     text = re.sub(r"http\S+|www\S+|https\S+", "", text)
     text = re.sub(r"@\w+|#", "", text)
     text = re.sub(r"[^a-zA-Z']", " ", text)
-    text = text.strip()
-    tokens = word_tokenize(text)
-    stop_words = set(stopwords.words("english"))
-    negations = {"not", "no", "nor", "n't", "cannot", "never"}
-    filtered_tokens = [
-        word for word in tokens if word not in stop_words or word in negations
-    ]
+    tokens = word_tokenize(text.strip())
+    tokens = [word for word in tokens if word not in CUSTOM_STOPWORDS]
     lemmatizer = WordNetLemmatizer()
-    lemmatized_tokens = [
-        lemmatizer.lemmatize(word) for word in filtered_tokens
-    ]
+    lemmatized_tokens = [lemmatizer.lemmatize(word) for word in tokens]
     return " ".join(lemmatized_tokens)
 
 
