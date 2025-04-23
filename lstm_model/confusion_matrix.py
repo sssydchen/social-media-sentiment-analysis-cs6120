@@ -1,18 +1,10 @@
-# ───────────────────────────────────────────────────────────────
-# Compare three sentiment models with confusion‑matrix heat‑maps
-# ───────────────────────────────────────────────────────────────
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
 
-# ----------------------------------------------------------------
-# 1. Load prediction CSVs
-#    Each file must contain two columns:
-#      • true labels
-#      • predicted labels
-# ----------------------------------------------------------------
+
 FILES = {
     # "NLTK (CountVectorizer)" : "nltk_predictions.csv",
     # "TF‑IDF (MultinomNB)"    : "sklearn_predictions.csv",
@@ -35,16 +27,11 @@ for model_name, path in FILES.items():
     if {"true", "pred"} <= set(df.columns):
         models[model_name] = df[["true", "pred"]]
     else:
-        raise ValueError(f"{path} must contain ground‑truth and prediction columns")
+        raise ValueError(f"{path} must contain ground-truth and prediction columns")
 
-# ----------------------------------------------------------------
-# 2. Global label order (modify if needed)
-# ----------------------------------------------------------------
-LABELS = ["negative", "neutral", "positive"]   # or list(label_encoder.classes_)
 
-# ----------------------------------------------------------------
-# 3. Helper: plot + save confusion matrix
-# ----------------------------------------------------------------
+LABELS = ["negative", "neutral", "positive"] 
+
 def plot_confusion_matrix(true_labels,
                           pred_labels,
                           model_name,
@@ -59,7 +46,7 @@ def plot_confusion_matrix(true_labels,
                 annot=True, fmt=".1f", cmap=cmap,
                 xticklabels=LABELS, yticklabels=LABELS,
                 cbar=True, vmin=0, vmax=100)
-    plt.title(f"{model_name}\nConfusion Matrix (Acc {accuracy*100:.1f} %)")
+    plt.title(f"{model_name}\nConfusion Matrix (Acc {accuracy*100:.1f} %)")
     plt.xlabel("Predicted label")
     plt.ylabel("True label")
     if save_path:
@@ -67,12 +54,11 @@ def plot_confusion_matrix(true_labels,
         print(f"Saved → {save_path}")
     plt.show()
 
-# ----------------------------------------------------------------
-# 4. Loop over models and draw/save
-# ----------------------------------------------------------------
-CMAP_PICK = {"NLTK (CountVectorizer)": "Blues",
-             "TF‑IDF (MultinomNB)"   : "Greens",
-             "TF Bi‑LSTM"            : "Purples"}
+
+# Loop over models and draw/save
+CMAP_PICK = {"NLTK (CountVectorizer)": "Blues",
+             "TF-IDF (MultinomNB)"   : "Greens",
+             "TF Bi-LSTM"            : "Purples"}
 
 for name, df in models.items():
     acc = (df["true"] == df["pred"]).mean()
@@ -82,10 +68,8 @@ for name, df in models.items():
                           cmap=CMAP_PICK.get(name, "Blues"),
                           save_path=f"{name.lower().replace(' ', '_')}.png")
 
-# ----------------------------------------------------------------
-# 5. Quick sanity checks
-# ----------------------------------------------------------------
+
 for name, df in models.items():
     acc = (df["true"] == df["pred"]).mean()
     assert 0 <= acc <= 1, f"{name} accuracy out of bounds"
-print("All accuracies within [0, 1]; confusion matrices generated.")
+print("All accuracies within [0, 1]; confusion matrices generated.")
