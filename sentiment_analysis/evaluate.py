@@ -9,7 +9,7 @@ def compute_accuracy(name: str, y_true, y_pred) -> float:
     Parameters
     ----------
     name : str
-        The name under which to store this model’s accuracy.
+        The name under which to store this model's accuracy.
     y_true : array-like
         Ground-truth labels.
     y_pred : array-like
