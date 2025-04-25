@@ -1,10 +1,11 @@
-# import os
+import os
 import re
 import numpy as np
 import pandas as pd
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import classification_report, accuracy_score
@@ -36,18 +37,28 @@ DF = pd.read_csv(CSV_PATH)
 
 # simple cleaning + NLTK tokenization + stopword removal (keep negations)
 STOP = set(stopwords.words('english'))
-NEG = {'no','not','never',"n't"}
-KEEP = STOP - NEG
+NEG = {"no",
+    "not",
+    "nor",
+    "cannot",
+    "can't",
+    "won't",
+    "n't",
+    "never",}
+CUSTOM_STOPWORDS = STOP - NEG
 
-def clean(text):
+def preprocess(text):
     t = text.lower()
     t = re.sub(r"http\S+|www\S+|https\S+", "", t)
     t = re.sub(r"@\w+|#", "", t)
     t = re.sub(r"[^a-zA-Z]", " ", t)
-    toks = word_tokenize(t)
-    return ' '.join([w for w in toks if w not in KEEP])
+    tokens = word_tokenize(text.strip())
+    tokens = [word for word in tokens if word not in CUSTOM_STOPWORDS]
+    lemmatizer = WordNetLemmatizer()
+    lemmatized_tokens = [lemmatizer.lemmatize(word) for word in tokens]
+    return ' '.join(lemmatized_tokens)
 
-DF['clean'] = DF['text'].astype(str).apply(clean)
+DF['clean'] = DF['text'].astype(str).apply(preprocess)
 
 # features & labels
 X = DF['clean'].values

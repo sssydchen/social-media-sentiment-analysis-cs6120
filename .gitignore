@@ -176,3 +176,4 @@ cython_debug/
 # Large dataset
 *.csv
 *.txt.DS_Store
+*.txt
