@@ -19,7 +19,7 @@ tokenizer_mock.return_value = {
     'input_ids': np.array([[1], [2]]),        # batch_size=2, seq_len=1
     'attention_mask': np.array([[1], [1]])    # attention masks corresponding to the inputs
 }
-patch('bert_model.BertTokenizer.from_pretrained',
+patch('models.bert_model.BertTokenizer.from_pretrained',
       return_value=tokenizer_mock).start()
 
 # 2) Mock the TFBertForSequenceClassification.from_pretrained method to return a dummy model
@@ -31,11 +31,11 @@ dummy_model.fit     = MagicMock()
 dummy_output = MagicMock(logits=np.array([[0.2, 0.8], [0.7, 0.3]]))
 dummy_model.predict = MagicMock(return_value=dummy_output)
 
-patch('bert_model.TFBertForSequenceClassification.from_pretrained',
+patch('models.bert_model.TFBertForSequenceClassification.from_pretrained',
       return_value=dummy_model).start()
 
 # Now safely import the BERTModel class without triggering actual downloads or TensorFlow code
-from bert_model import BERTModel  
+from models.bert_model import BERTModel  
 
 def test_init():
     """
