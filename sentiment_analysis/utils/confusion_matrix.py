@@ -52,4 +52,4 @@ def plot_confusion_matrix(
     if save_path:
         plt.savefig(save_path, bbox_inches="tight", dpi=300)
         print(f"Saved confusion matrix to {save_path}")
-    plt.show()
+    # plt.show()

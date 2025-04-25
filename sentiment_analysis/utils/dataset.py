@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 
 
 def load_and_split(
-    csv_path: str,
+    csv_path: str, nrows=None,
     text_col: str = 'text',
     label_col: str = 'airline_sentiment',
     test_size: float = 0.2,
@@ -13,7 +13,7 @@ def load_and_split(
     Load CSV, extract text and labels, and split into train/test.
     Returns X_train, X_test, y_train, y_test.
     """
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path, nrows=nrows)
     X = df[text_col].astype(str).values
     y = df[label_col].values
     return train_test_split(
