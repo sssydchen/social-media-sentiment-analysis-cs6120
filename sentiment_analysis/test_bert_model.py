@@ -22,7 +22,8 @@ tokenizer_mock.return_value = {
     ),  # attention masks corresponding to the inputs
 }
 patch(
-    "bert_model.BertTokenizer.from_pretrained", return_value=tokenizer_mock
+    "models.bert_model.BertTokenizer.from_pretrained",
+    return_value=tokenizer_mock,
 ).start()
 
 # 2) Mock the TFBertForSequenceClassification.from_pretrained method to return a dummy model
@@ -35,7 +36,7 @@ dummy_output = MagicMock(logits=np.array([[0.2, 0.8], [0.7, 0.3]]))
 dummy_model.predict = MagicMock(return_value=dummy_output)
 
 patch(
-    "bert_model.TFBertForSequenceClassification.from_pretrained",
+    "models.bert_model.TFBertForSequenceClassification.from_pretrained",
     return_value=dummy_model,
 ).start()
 
