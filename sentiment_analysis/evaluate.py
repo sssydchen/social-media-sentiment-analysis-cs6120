@@ -2,6 +2,7 @@ from sklearn.metrics import classification_report, accuracy_score
 
 results = {}
 
+
 def compute_accuracy(name: str, y_true, y_pred) -> float:
     """
     Compute accuracy and store it in the global `results` dict.
@@ -9,7 +10,7 @@ def compute_accuracy(name: str, y_true, y_pred) -> float:
     Parameters
     ----------
     name : str
-        The name under which to store this model's accuracy.
+        The name under which to store this model’s accuracy.
     y_true : array-like
         Ground-truth labels.
     y_pred : array-like
@@ -23,6 +24,7 @@ def compute_accuracy(name: str, y_true, y_pred) -> float:
     acc = accuracy_score(y_true, y_pred)
     results[name] = acc
     return acc
+
 
 def print_report(name: str, y_true, y_pred):
     """

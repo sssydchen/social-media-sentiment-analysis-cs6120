@@ -26,7 +26,9 @@ patch('models.bert_model.BertTokenizer.from_pretrained',
 dummy_model = MagicMock()
 # Provide MagicMock implementations for compile, fit, and predict methods
 dummy_model.compile = MagicMock()
-dummy_model.fit     = MagicMock()
+
+dummy_model.fit = MagicMock()
+
 # Create a dummy output object with a logits attribute for model.predict
 dummy_output = MagicMock(logits=np.array([[0.2, 0.8], [0.7, 0.3]]))
 dummy_model.predict = MagicMock(return_value=dummy_output)
@@ -76,6 +78,7 @@ def test_fit_and_predict():
     bmodel = BERTModel()
     X = ['hello', 'world']
     y = ['pos', 'neg']
+    
     # Call fit, which should invoke compile() and fit() on the dummy model
     bmodel.fit(X, y, epochs=1, batch_size=1)
     assert dummy_model.compile.called
