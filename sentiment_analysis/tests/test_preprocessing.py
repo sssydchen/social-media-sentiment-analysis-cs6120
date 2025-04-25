@@ -13,7 +13,7 @@ Each test verifies one aspect of the text cleaning pipeline:
 """
 
 import unittest
-from preprocessing import clean_text
+from utils.preprocessing import clean_text
 
 
 class TestCleanText(unittest.TestCase):
