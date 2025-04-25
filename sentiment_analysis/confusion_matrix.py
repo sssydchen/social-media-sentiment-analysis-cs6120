@@ -25,12 +25,6 @@ bert_accuracy = (
     bert_df["airline_sentiment"] == bert_df["predicted_sentiment"]
 ).mean()
 
-# # print the accuracy results
-# print(f"NLTK Model Accuracy: {nltk_accuracy:.4f}")
-# print(f"Logistic Regression Model Accuracy: {logreg_accuracy:.4f}")
-# print(f"Tf Model Accuracy: {tf_accuracy:.4f}")
-# print(f"Bert Model Accuracy: {bert_accuracy:.4f}")
-
 
 # ===============================
 # Function: plot_confusion_matrix
@@ -81,47 +75,6 @@ def plot_confusion_matrix(
         plt.savefig(save_path, bbox_inches="tight", dpi=300)
         print(f"Saved confusion matrix to {save_path}")
     plt.show()
-
-
-# plot and save NLTK model confusion matrix
-plot_confusion_matrix(
-    nltk_df["airline_sentiment"],
-    nltk_df["predicted_sentiment"],
-    "NLTK (CountVectorizer)",
-    nltk_accuracy,
-    cmap_style="Blues",
-    save_path="nltk_matrix.png",
-)
-
-# plot and save Scikit-Learn model confusion matrix
-plot_confusion_matrix(
-    logreg_df["airline_sentiment"],
-    logreg_df["predicted_sentiment"],
-    "Logistic Regression (TF-IDF)",
-    logreg_accuracy,
-    cmap_style="Greens",
-    save_path="logreg_matrix.png",
-)
-
-# plot and save Tf model confusion matrices
-plot_confusion_matrix(
-    tf_df["airline_sentiment"],
-    tf_df["predicted_sentiment"],
-    "Tf Model",
-    tf_accuracy,
-    cmap_style="Oranges",
-    save_path="tf_matrix.png",
-)
-
-# plot and save Bert model confusion matrices
-plot_confusion_matrix(
-    bert_df["airline_sentiment"],
-    bert_df["predicted_sentiment"],
-    "Bert Model",
-    bert_accuracy,
-    cmap_style="Purples",
-    save_path="bert_matrix.png",
-)
 
 
 # ===============================
