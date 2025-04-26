@@ -12,9 +12,7 @@ This repository implements and compares four approaches for sentiment analysis o
 
 Each model is evaluated on accuracy, precision, recall, and F1 score, and the  and results are visualized with confusion-matrix heatmaps.
 
-
-
-## 🛠️ Features
+## 🛠️   Features
 
 - **Standardized preprocessing**: cleaning, tokenization, negation-aware stopword filtering & lemmatization  
 - **Unified train/test split** (80 / 20), with stratification to preserve class balance  
@@ -57,16 +55,16 @@ The sentiment_analysis folder should be at the same level as main.py.
 python main.py
 ```
 
-* Default: trains on the first 2 000 tweets (nrows=2000)
+* Default: trains on the first 2,000 tweets (nrows=2000)
 * Full dataset: edit ```main.py``` →
 
 ```diff
 - load_and_split('Tweets.csv', nrows=2000)
 + load_and_split('Tweets.csv', nrows=None)
 ```
-* Smoke-test (eg, first 1 000 rows): set nrows=1000
+* Smoke-test (eg, first 1,000 rows): set `nrows=1000`
 
-* **Note**:  BERT on the full tweets dataset may take 40 min –1 hr. 
+* **Note**:  BERT on the full tweets dataset may take 40 min – 1 hr. 
 
 The script will automatically:
 * Load and split the dataset into training and testing sets.
@@ -76,7 +74,7 @@ The script will automatically:
 * Save the model predictions to CSV files.
 * Generate and save confusion matrix plots for each model.
 
-### 🔍 Expected Outputs
+## 🔍 Expected Outputs
 After running `demo.py`, you’ll find:
 
 **Prediction CSVs** in `predictions/`:
@@ -91,7 +89,7 @@ After running `demo.py`, you’ll find:
 - `bi-lstm_matrix.png`
 - `bert_matrix.png`
 
-### 🛠️  Troubleshooting Tips
+## 🛠️  Troubleshooting Tips
 * `Module Not Found Errors`:   
 Ensure all libraries are installed. For the Keras-3 + Transformers issue, run:
 ```bash
