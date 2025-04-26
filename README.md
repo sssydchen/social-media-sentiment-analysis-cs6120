@@ -3,7 +3,7 @@
 
 ## 📖 Overview
 
-This repository implements and compares four approaches for sentiment analysis on social media comments:
+This project implements and compares four approaches for sentiment analysis on social media comments:
 
 1. **NLTK Baseline**: Bag-of-Words + Multinomial Naive Bayes  
 2. **Scikit-Learn**: TF-IDF + Logistic Regression  
