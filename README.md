@@ -10,9 +10,9 @@ This project implements and compares four approaches for sentiment analysis on s
 3. **TensorFlow**: Bidirectional LSTM  
 4. **HuggingFace BERT**: Fine-tuned Transformer  
 
-Each model is evaluated on accuracy, precision, recall, and F1 score, and the  and results are visualized with confusion-matrix heatmaps.
+Each model is evaluated on accuracy, precision, recall, and F1 score, and results are visualized with confusion-matrix heatmaps.
 
-## 🛠️   Features
+## 🛠️ Features
 
 - **Standardized preprocessing**: cleaning, tokenization, negation-aware stopword filtering & lemmatization  
 - **Unified train/test split** (80 / 20), with stratification to preserve class balance  
