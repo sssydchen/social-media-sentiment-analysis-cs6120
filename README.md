@@ -1,4 +1,4 @@
-# Sentiment Analysis on Social Media Comments
+# Multi-Model Sentiment Analysis Pipeline for Social Media
 
 
 ## 📖 Overview
@@ -75,7 +75,7 @@ The script will automatically:
 * Generate and save confusion matrix plots for each model.
 
 ## 🔍 Expected Outputs
-After running `demo.py`, you’ll find:
+After running `main.py`, you’ll find:
 
 **Prediction CSVs** in `predictions/`:
 - `nltk_predictions.csv`
