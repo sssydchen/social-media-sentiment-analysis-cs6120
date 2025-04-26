@@ -24,7 +24,7 @@ def main():
     os.makedirs('matrices', exist_ok=True)
 
     # load & preprocess
-    X_train, X_test, y_train, y_test = load_and_split('Tweets.csv', nrows=1000) # change nrows to adjust the data size, set to None for all data
+    X_train, X_test, y_train, y_test = load_and_split('Tweets.csv', nrows=2000) # change the value of nrows to adjust the data size, set to None for all data
     X_train = [clean_text(x) for x in X_train]
     X_test  = [clean_text(x) for x in X_test]
 

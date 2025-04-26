@@ -73,3 +73,6 @@ class BERTModel:
         logits = self.model.predict(dataset).logits
         preds = np.argmax(logits, axis=1)
         return self.label_encoder.inverse_transform(preds)
+
+
+
